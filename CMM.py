@@ -6,35 +6,6 @@ sample_exp =  { "seq_length" : 560,   "fragments_MseI" : [481,200],  "fragments_
 sample_exp["fragments_MseI"] = [x for x in sample_exp["fragments_MseI"] if x <= sample_exp["seq_length"]]
 sample_exp["fragments_Hpy188I"] = [x for x in sample_exp["fragments_Hpy188I"] if x <= sample_exp["seq_length"]]
 
-#LENGTH MATCHING
-def db_len_filter(gel_exp, gel_db, buffer=100):
-    db = []
-    for bacteria in gel_db:
-        if abs(gel_exp["seq_length"]-bacteria["seq_length"]) < buffer:
-            db.append(bacteria)
-    return db
-
-
-
-
-
-#FRAGMENT MATCHING
-def frags_sort(frag_exp, frag_db):
-    #compares MseI fragment digest to database
-    #exclude close to full length
-    #exclude <100 bp from db
-    #count remaining fragments
-    if 1==1:
-    #if not frags_match(gelexp["fragments_MSeI"], gel_db["fragments_MSeI"]): 
-        return False
-    return True
-
-    if gel_exp["fragments_MSEI"]
-
-def 
-
-
-
 #FORMATS SEQUENCE LIST
 def db_import(db_path):
     with open(db_path, 'r') as seqFile:
@@ -61,8 +32,33 @@ def db_import(db_path):
             next(seq)
     return database
 
+#LENGTH MATCHING
+def db_seqlen_filter(gel_exp, gel_db, buffer=100):
+    db_lenfilt = []
+    for bacteria in gel_db:
+        if abs(gel_exp["seq_length"]-bacteria["seq_length"]) < buffer:
+            db_lenfilt.append(bacteria)
+    return db_lenfilt
+
+#FRAGMENT MATCHING
+def db_fragnum_filter(gel_exp, gel_db, buffer=100):
+    #If more bands in experimental than digital = not a match 
+    #If more bands in the digital than the experimental, may be a match
+    db_fragfilt = []
+    for bacteria in gel_db:
+        fragments_msei = [x for x in bacteria["fragments_MseI"] if x >= buffer]
+        fragments_hpy188i = [x for x in bacteria["fragments_Hpy188I"] if x >= buffer]
+        if len(fragments_msei) >= len(gel_exp['fragments_MseI']) and len(fragments_hpy188i) >= len(gel_exp['fragments_Hpy188I']):
+            db_fragfilt.append(bacteria)
+    return db_fragfilt
+
+
+    
 db_init = db_import('./Sequence_Analyses.csv')
 print(len(db_init))
-db = db_len_filter(sample_exp, db_init)
-print(len(db))
+db_lenfilt = db_seqlen_filter(sample_exp, db_init)
+print(len(db_lenfilt))
+db_fragfilt = db_fragnum_filter(sample_exp, db_lenfilt)
+print(len(db_fragfilt))
+
 
