@@ -109,4 +109,9 @@ print(len(db_fragfilt))
 db_fraglen = fraglen_filter(sample_exp, db_fragfilt)
 print(len(db_fraglen))
 
+h = open('./testData.txt', 'w')
+for testdta in db_fraglen:
+    h.write(testdta["defline"] + "\n")
+h.close()
+
 
