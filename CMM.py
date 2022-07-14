@@ -33,7 +33,7 @@ def db_import(db_path):
     return database
 
 #LENGTH MATCHING
-def db_seqlen_filter(gel_exp, gel_db, buffer=100):
+def seqlen_filter(gel_exp, gel_db, buffer=100):
     db_lenfilt = []
     for bacteria in gel_db:
         if abs(gel_exp["seq_length"]-bacteria["seq_length"]) < buffer:
@@ -41,7 +41,7 @@ def db_seqlen_filter(gel_exp, gel_db, buffer=100):
     return db_lenfilt
 
 #FRAGMENT MATCHING
-def db_fragnum_filter(gel_exp, gel_db, buffer=100):
+def fragnum_filter(gel_exp, gel_db, buffer=100):
     #If more bands in experimental than digital = not a match 
     #If more bands in the digital than the experimental, may be a match
     db_fragfilt = []
@@ -52,13 +52,14 @@ def db_fragnum_filter(gel_exp, gel_db, buffer=100):
             db_fragfilt.append(bacteria)
     return db_fragfilt
 
-
+def fraglen_filter():
+    
     
 db_init = db_import('./Sequence_Analyses.csv')
 print(len(db_init))
-db_lenfilt = db_seqlen_filter(sample_exp, db_init)
+db_lenfilt = seqlen_filter(sample_exp, db_init)
 print(len(db_lenfilt))
-db_fragfilt = db_fragnum_filter(sample_exp, db_lenfilt)
+db_fragfilt = fragnum_filter(sample_exp, db_lenfilt)
 print(len(db_fragfilt))
 
 
