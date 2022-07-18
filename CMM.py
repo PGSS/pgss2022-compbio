@@ -2,12 +2,12 @@ import csv
 #SAMPLE DATA BELOW
 
 #replace with user input (also set +/- gap for seq len)
-sample_exp =  { "seq_length" : 560,   "fragments_MseI" : [481,200],  "fragments_Hpy188I" : [607,428,264]}
+sample_exp =  { "seq_length" : 585,   "fragments_MseI" : [511,227],  "fragments_Hpy188I" : [644,454,290]}
 sample_exp["fragments_MseI"] = [x for x in sample_exp["fragments_MseI"] if x <= sample_exp["seq_length"]]
 sample_exp["fragments_MseI"] = [x for x in sample_exp["fragments_MseI"] if x >= 100]
 
 sample_exp["fragments_Hpy188I"] = [x for x in sample_exp["fragments_Hpy188I"] if x <= sample_exp["seq_length"]]
-sample_exp["fragments_Hpy188I"] = [x for x in sample_exp["fragments_MseI"] if x >= 100]
+sample_exp["fragments_Hpy188I"] = [x for x in sample_exp["fragments_Hpy188I"] if x >= 100]
 
 #FORMATS SEQUENCE LIST
 def db_import(db_path):
