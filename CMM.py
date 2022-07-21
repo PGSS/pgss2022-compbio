@@ -1,5 +1,7 @@
 import csv
 
+from Sequence_Analysis import Sequence_Length
+
 #SAMPLE DATA BELOW
 
 #The current sample being used is WM10 Lactobacillus Paracasei
@@ -156,6 +158,9 @@ def fraglen_filter_exprange(gel_exp, gel_db, range=100):
             for dbv in db_msei:
                 if lower_range <= dbv and dbv <= upper_range:
                     range_check = True
+            
+            #Sequence length check needed
+
             if not range_check:
                 potential_match = False
                 break
@@ -224,10 +229,3 @@ h = open('./testData.txt', 'w')
 for testdta in db_fraglen_exprange:
     h.write(testdta["defline"] + "\n")
 h.close()
-
-count = 0
-for i in db_init:
-    if "paracasei" in i["defline"]:
-        print (i["fragments_Hpy188I"])
-        count ++
-print (count)
