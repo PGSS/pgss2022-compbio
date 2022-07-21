@@ -1,7 +1,7 @@
 def difference_value(exp_lengths, db_lengths):
     sum = 0
     if (len(exp_lengths) != len(db_lengths)):
-        print("In not equal")
+        print("In not equal " + str(len(exp_lengths)) + " " + str(len(db_lengths)))
         for i in db_lengths:
             least_difference = 99999
             for j in exp_lengths:
