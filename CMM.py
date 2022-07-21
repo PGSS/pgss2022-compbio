@@ -1,13 +1,16 @@
 import csv
+from test_func import difference_value
 #SAMPLE DATA BELOW
 
 #replace with user input (also set +/- gap for seq len)
-sample_exp =  { "seq_length" : 560,   "fragments_MseI" : [481,200],  "fragments_Hpy188I" : [607,428,264]}
+sample_exp =  { "seq_length" : 585,   "fragments_MseI" : [511,227],  "fragments_Hpy188I" : [644,454,290]}
 sample_exp["fragments_MseI"] = [x for x in sample_exp["fragments_MseI"] if x <= sample_exp["seq_length"]]
 sample_exp["fragments_MseI"] = [x for x in sample_exp["fragments_MseI"] if x >= 100]
+sample_exp["fragments_MseI"].sort()
 
 sample_exp["fragments_Hpy188I"] = [x for x in sample_exp["fragments_Hpy188I"] if x <= sample_exp["seq_length"]]
-sample_exp["fragments_Hpy188I"] = [x for x in sample_exp["fragments_MseI"] if x >= 100]
+sample_exp["fragments_Hpy188I"] = [x for x in sample_exp["fragments_Hpy188I"] if x >= 100]
+sample_exp["fragments_Hpy188I"].sort()
 
 #FORMATS SEQUENCE LIST
 def db_import(db_path):
@@ -36,7 +39,7 @@ def db_import(db_path):
     return database
 
 #LENGTH MATCHING
-def seqlen_filter(gel_exp, gel_db, buffer=100):
+def seqlen_filter(gel_exp, gel_db, buffer=50):
     db_lenfilt = []
     for bacteria in gel_db:
         if abs(gel_exp["seq_length"]-bacteria["seq_length"]) < buffer:
@@ -44,31 +47,33 @@ def seqlen_filter(gel_exp, gel_db, buffer=100):
     return db_lenfilt
 
 #FRAGMENT NUMBER MATCHING
-def fragnum_filter(gel_exp, gel_db, buffer=100):
+def fragnum_filter(gel_exp, gel_db, reject=100):
     #If more bands in experimental than digital = not a match 
     #If more bands in the digital than the experimental, may be a match
     db_fragfilt = []
-    for bacteria in gel_db:
-        fragments_msei = [x for x in bacteria["fragments_MseI"] if x >= buffer]
-        fragments_hpy188i = [x for x in bacteria["fragments_Hpy188I"] if x >= buffer]
+    for bacteria in gel_db: 
+        fragments_msei = [x for x in bacteria["fragments_MseI"] if x >= reject]
+        fragments_hpy188i = [x for x in bacteria["fragments_Hpy188I"] if x >= reject]
         if len(fragments_msei) >= len(gel_exp['fragments_MseI']) and len(fragments_hpy188i) >= len(gel_exp['fragments_Hpy188I']):
             db_fragfilt.append(bacteria)
     return db_fragfilt
 
 
 #FRAGMENT LENGTH MATCHING
-def fraglen_filter(gel_exp, gel_db, buffer=100, range=50):
+def fraglen_filter(gel_exp, gel_db, reject=100, range=60):
     db_fraglenfilt = []
 
     #Iterates through all bacteria in the database
     for bacteria in gel_db:
         #removes fragments under 100 and sorts database by length
-        db_msei = [x for x in bacteria["fragments_MseI"] if x >= buffer]
+        db_msei = [x for x in bacteria["fragments_MseI"] if x >= reject]
         db_msei.sort()
-        db_hpy188i = [x for x in bacteria["fragments_Hpy188I"] if x >= buffer]
+        db_hpy188i = [x for x in bacteria["fragments_Hpy188I"] if x >= reject]
         db_hpy188i.sort()
         exp_msei = gel_exp["fragments_MseI"]
+        exp_msei.sort()
         exp_hpy188i = gel_exp["fragments_Hpy188I"]
+        exp_hpy188i.sort()
 
         #All bacteria initially assumed to be a match
         potential_match = True
@@ -123,10 +128,15 @@ db_fragfilt = fragnum_filter(sample_exp, db_lenfilt)
 print(len(db_fragfilt))
 db_fraglen = fraglen_filter(sample_exp, db_fragfilt)
 print(len(db_fraglen))
-
+db_ranked = {}
+for i in db_fraglen:
+    db_diffval = difference_value(sample_exp["fragments_Hpy188I"], i["fragments_Hpy188I"])
+    #print(i["defline"])
+    #print(db_diffval)
+    db_ranked[i["defline"]] = db_diffval
+    #print(db_diffval)
+#print(db_ranked)
 h = open('./testData.txt', 'w')
 for testdta in db_fraglen:
     h.write(testdta["defline"] + "\n")
 h.close()
-
-

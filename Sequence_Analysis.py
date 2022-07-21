@@ -38,7 +38,7 @@ for item in read_fasta("./lactic_acid_only.fa.gz"):
     Sequence_Length = len(item.sequence)
     #print(f"Length of the sequence : {Sequence_Length}")
 
-    analyzed_list.append(Analysis(rb.search(Seq(item.sequence)), Seq(item.sequence)))
+    #analyzed_list.append(Analysis(rb.search(Seq(item.sequence)), Seq(item.sequence)))
     a = Analysis(rb.search(Seq(item.sequence)), Seq(item.sequence))
     #a.print_that()
 
