@@ -4,16 +4,16 @@ from more_itertools import sample
 
 #SAMPLE DATA BELOW
 
-#The current sample being used is WM9 Lactobacillus Paracasei
+#The current sample being used is WM10 Lactobacillus Paracasei
 
 #replace with user input (also set +/- gap for seq len)
-sample_exp =  { "seq_length" : 584,   "fragments_MseI" : [511,227],  "fragments_Hpy188I" : [643,455,290]}
+sample_exp =  { "seq_length" : 584,   "fragments_MseI" : [531,241],  "fragments_Hpy188I" : [669,472,299]}
 sample_exp["fragments_MseI"] = [x for x in sample_exp["fragments_MseI"] if x <= sample_exp["seq_length"]]
-sample_exp["fragments_MseI"] = [x for x in sample_exp["fragments_MseI"] if x >= 100]
+sample_exp["fragments_MseI"] = [x for x in sample_exp["fragments_MseI"]]
 sample_exp["fragments_MseI"].sort()
 
 sample_exp["fragments_Hpy188I"] = [x for x in sample_exp["fragments_Hpy188I"] if x <= sample_exp["seq_length"]]
-sample_exp["fragments_Hpy188I"] = [x for x in sample_exp["fragments_Hpy188I"] if x >= 100]
+sample_exp["fragments_Hpy188I"] = [x for x in sample_exp["fragments_Hpy188I"]]
 sample_exp["fragments_Hpy188I"].sort()
 
 #FORMATS SEQUENCE LIST
@@ -43,10 +43,10 @@ def db_import(db_path):
     return database
 
 #LENGTH MATCHING
-def seqlen_filter(gel_exp, gel_db, buffer=50):
+def seqlen_filter(gel_exp, gel_db, buffer=100):
     db_lenfilt = []
     for bacteria in gel_db:
-        if abs(gel_exp["seq_length"]-bacteria["seq_length"]) < buffer:
+        if abs(gel_exp["seq_length"]-bacteria["seq_length"]) <= buffer:
             db_lenfilt.append(bacteria)
     return db_lenfilt
 
@@ -95,10 +95,11 @@ def fraglen_filter_dbrange(gel_exp, gel_db, reject=100, range=100):
 
             #Iterates through every experimental cut value and checks to see if there is a matching database value
             for expv in exp_msei:
-                if lower_range < expv and expv < upper_range:
+                if lower_range <= expv and expv <= upper_range:
                     range_check = True
-            if range_check == False:
+            if not range_check:
                 potential_match = False
+                break
 
         #Iterates through every database value for msei
         for dbv in db_hpy188i:
@@ -112,13 +113,14 @@ def fraglen_filter_dbrange(gel_exp, gel_db, reject=100, range=100):
 
             #Iterates through every experimental cut value and checks to see if there is a matching database value
             for expv in exp_hpy188i:
-                if lower_range < expv and expv < upper_range:
+                if lower_range <= expv and expv <= upper_range:
                     range_check = True
-            if range_check == False:
+            if not range_check:
                 potential_match = False
+                break
                 
         #If there is a potential match, it adds the database bacteria to a new list of potential matches
-        if potential_match == True:
+        if potential_match:
             db_fraglenfilt_dbrange.append(bacteria)
     return db_fraglenfilt_dbrange
 
@@ -154,10 +156,11 @@ def fraglen_filter_exprange(gel_exp, gel_db, range=100):
 
             #Iterates through every database cut value and checks to see if there is a matching experimental value
             for dbv in db_msei:
-                if lower_range < dbv and dbv < upper_range:
+                if lower_range <= dbv and dbv <= upper_range:
                     range_check = True
-            if range_check == False:
+            if not range_check:
                 potential_match = False
+                break
 
         #Iterates through every experimental value for msei
         for expv in exp_hpy188i:
@@ -171,13 +174,14 @@ def fraglen_filter_exprange(gel_exp, gel_db, range=100):
 
             #Iterates through every database cut value and checks to see if there is a matching experimental value
             for dbv in db_hpy188i:
-                if lower_range < dbv and dbv < upper_range:
+                if lower_range <= dbv and dbv <= upper_range:
                     range_check = True
-            if range_check == False:
+            if not range_check:
                 potential_match = False
+                break
                 
         #If there is a potential match, it adds the database bacteria to a new list of potential matches
-        if potential_match == True:
+        if potential_match:
             db_fraglenfilt_exprange.append(bacteria)
     return db_fraglenfilt_exprange
 
@@ -207,9 +211,9 @@ db_init = db_import('./Sequence_Analyses.csv')
 #print(len(db_init))
 db_lenfilt = seqlen_filter(sample_exp, db_init)
 #print(len(db_lenfilt))
-db_fragfilt = fragnum_filter(sample_exp, db_lenfilt)
+#db_fragfilt = fragnum_filter(sample_exp, db_lenfilt)
 #print(len(db_fragfilt))
-db_fraglen_dbrange = fraglen_filter_dbrange(sample_exp, db_fragfilt)
+db_fraglen_dbrange = fraglen_filter_dbrange(sample_exp, db_lenfilt)
 #print(len(db_fraglen_dbrange))
 db_fraglen_exprange = fraglen_filter_exprange(sample_exp, db_fraglen_dbrange)
 print(len(db_fraglen_exprange))
@@ -221,8 +225,11 @@ for i in db_fraglen_exprange:
     #print(db_diffval)
     #db_ranked[i["defline"]] = db_diffval
     #print(db_diffval)
-    print(i["fragments_Hpy188I"])
+    print(f"{i['fragments_Hpy188I']} \t {i['defline']}")
 #print(db_ranked)
+
+print(len(db_fraglen_exprange))
+
 h = open('./testData.txt', 'w')
 for testdta in db_fraglen_exprange:
     h.write(testdta["defline"] + "\n")
