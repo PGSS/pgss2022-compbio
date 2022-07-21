@@ -59,6 +59,8 @@ def fragnum_filter(gel_exp, gel_db, buffer=100):
 #FRAGMENT LENGTH MATCHING
 def fraglen_filter(gel_exp, gel_db, buffer=100, range=50):
     db_fraglenfilt = []
+
+    #Iterates through all bacteria in the database
     for bacteria in gel_db:
         #removes fragments under 100 and sorts database by length
         db_msei = [x for x in bacteria["fragments_MseI"] if x >= buffer]
@@ -68,32 +70,45 @@ def fraglen_filter(gel_exp, gel_db, buffer=100, range=50):
         exp_msei = gel_exp["fragments_MseI"]
         exp_hpy188i = gel_exp["fragments_Hpy188I"]
 
-
+        #All bacteria initially assumed to be a match
         potential_match = True
         
+        #Iterates through every database value for msei
         for dbv in db_msei:
 
+            #Sets a range for acceptable database values
             lower_range = dbv - range
             upper_range = dbv + range
+
+            #Experimental value initially assumed to fail the range check
             range_check = False
+
+            #Iterates through every experimental cut value and checks to see if there is a matching database value
             for expv in exp_msei:
                 if lower_range < expv and expv < upper_range:
                     range_check = True
             if range_check == False:
                 potential_match = False
         
-        for dbv in db_hpy188i:
 
+        #Iterates through every database value for msei
+        for dbv in db_hpy188i:
+            
+            #Sets a range for acceptable database values
             lower_range = dbv - range
             upper_range = dbv + range
+
+            #Experimental value initially assumed to fail the range check
             range_check = False
+
+            #Iterates through every experimental cut value and checks to see if there is a matching database value
             for expv in exp_hpy188i:
                 if lower_range < expv and expv < upper_range:
                     range_check = True
             if range_check == False:
                 potential_match = False
         
-        
+        #If there is a potential match, it adds the database bacteria to a new list of potential matches
         if potential_match == True:
             db_fraglenfilt.append(bacteria)
         
