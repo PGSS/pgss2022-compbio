@@ -1,3 +1,5 @@
+#8
+
 def difference_value(exp_lengths, db_lengths):
     sum = 0
     if (len(exp_lengths) != len(db_lengths)):
