@@ -1,7 +1,5 @@
 import csv
 
-from more_itertools import sample
-
 #SAMPLE DATA BELOW
 
 #The current sample being used is WM10 Lactobacillus Paracasei
@@ -55,7 +53,7 @@ def fragnum_filter(gel_exp, gel_db, reject=100):
     #If more bands in experimental than digital = not a match 
     #If more bands in the digital than the experimental, may be a match
     db_fragfilt = []
-    for bacteria in gel_db: 
+    for bacteria in gel_db:
         fragments_msei = [x for x in bacteria["fragments_MseI"] if x >= reject]
         fragments_hpy188i = [x for x in bacteria["fragments_Hpy188I"] if x >= reject]
         if len(fragments_msei) >= len(gel_exp['fragments_MseI']) and len(fragments_hpy188i) >= len(gel_exp['fragments_Hpy188I']):
@@ -190,22 +188,14 @@ def fraglen_filter_exprange(gel_exp, gel_db, range=100):
 #FRAGMENT STATISTICAL ANALYSIS
 def difference_value(exp_lengths, db_lengths):
     sum = 0
-    if (len(exp_lengths) != len(db_lengths)):
-        print("In 'not equal' situation " + str(exp_lengths) + " " + str(db_lengths))
-        for i in db_lengths:
-            least_difference = 99999
-            for j in exp_lengths:
-                if abs(i-j) < least_difference:
-                    least_difference = abs(i-j)
-            sum += least_difference**2
-            #print(sum)
-        return float(sum)/len(db_lengths)
-    else:
-        #print("In equal")
-        for i in range(len(db_lengths)):
-            sum += (exp_lengths[i] - db_lengths[i])**2
-            #print(str(exp_lengths[i]) + " " + str(db_lengths[i]))
-        return float(sum)/len(db_lengths)
+    print(str(exp_lengths) + " " + str(db_lengths))
+    for i in db_lengths:
+        least_difference = 99999
+        for j in exp_lengths:
+            if abs(i-j) < least_difference:
+                least_difference = abs(i-j)
+        sum += least_difference**2
+    return float(sum)/len(db_lengths)
     
 db_init = db_import('./Sequence_Analyses.csv')
 #print(len(db_init))
@@ -234,3 +224,10 @@ h = open('./testData.txt', 'w')
 for testdta in db_fraglen_exprange:
     h.write(testdta["defline"] + "\n")
 h.close()
+
+count = 0
+for i in db_init:
+    if "paracasei" in i["defline"]:
+        print (i["fragments_Hpy188I"])
+        count ++
+print (count)
