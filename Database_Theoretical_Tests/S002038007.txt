@@ -1,0 +1,10 @@
+S002038007 uncultured bacterium; 3928708-ESOPHAGUS_FBN	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+0.0
+S003433174 uncultured bacterium; DE06446C05	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+2.6666666666666665
+S001342515 uncultured bacterium; YO00116B11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+3.0
+S002038040 uncultured bacterium; 3928713-ESOPHAGUS_FBN	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+5.666666666666667
+S002038222 uncultured bacterium; 3928706-ESOPHAGUS_FBN	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+33.333333333333336

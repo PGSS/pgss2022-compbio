@@ -1,0 +1,10 @@
+S001383487 uncultured bacterium; nbt35h05	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+0.0
+S001391000 uncultured bacterium; nbu101g06c1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+0.0
+S001391789 uncultured bacterium; nbu108e09c1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+0.0
+S001400569 uncultured bacterium; nbw830f08c1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+0.0
+S001400140 uncultured bacterium; nbw828d11c1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+0.0

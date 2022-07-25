@@ -1,0 +1,10 @@
+S000775165 Lactobacillus mali; JCM 3822	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+0.0
+S004546204 uncultured bacterium; I72_F09	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+113.9
+S000775159 Lactobacillus mali; JCM 1116	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+121.5625
+S003339409 uncultured organism; ELU0072-T477-S-NIPCRAMgANa_000266	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+167.375
+S000917383 uncultured Bacilli bacterium; MS170A1_C06	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+168.83749999999998

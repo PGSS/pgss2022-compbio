@@ -1,0 +1,10 @@
+S003467090 uncultured bacterium; SK009.3.E.049	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+0.0
+S003465945 uncultured bacterium; SK011.3.C.038	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+0.7333333333333334
+S003467087 uncultured bacterium; SK009.3.E.040	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+0.7333333333333334
+S003470057 uncultured bacterium; SK009.3.E.009	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+2.1333333333333333
+S003468581 uncultured bacterium; SK011.3.C.030	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+5.6

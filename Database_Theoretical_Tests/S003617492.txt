@@ -1,0 +1,10 @@
+S002964282 Lactobacillus reuteri; ZJ623	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+0.0
+S003617492 Lactobacillus reuteri; ZJ685	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+0.0
+S003617491 Lactobacillus reuteri; ZJ684	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+0.0
+S003617474 Lactobacillus reuteri; ZJ667	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+0.15476190476190477
+S004535125 Lactobacillus reuteri; MF1567	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+0.15476190476190477

@@ -1,0 +1,10 @@
+S003036936 uncultured bacterium; 16sms131-1a01	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+0.0
+S003036954 uncultured bacterium; 16sms131-1b08	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+0.0
+S003036959 uncultured bacterium; 16sms131-1c02	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+0.0
+S003036978 uncultured bacterium; 16sms131-1e02	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+0.0
+S003036971 uncultured bacterium; 16sms131-1d04	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+0.0

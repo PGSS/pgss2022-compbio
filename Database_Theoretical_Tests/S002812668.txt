@@ -1,0 +1,10 @@
+S002795172 uncultured bacterium; GDIC2IK01D5F54	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+0.0
+S002811345 uncultured bacterium; GDIC2IK01CHWNC	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+0.0
+S002811376 uncultured bacterium; GDIC2IK01AS492	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+0.0
+S002812254 uncultured bacterium; GDIC2IK01EGS8Z	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+0.0
+S002812668 uncultured bacterium; GDIC2IK01A1LYK	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+0.0

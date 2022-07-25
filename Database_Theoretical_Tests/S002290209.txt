@@ -1,0 +1,10 @@
+S002289698 Streptococcus equi subsp. zooepidemicus; H70	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+0.0
+S002290308 Streptococcus equi subsp. zooepidemicus; H70	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+0.0
+S002290209 Streptococcus equi subsp. zooepidemicus; H70	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+0.0
+S002288885 Streptococcus equi subsp. zooepidemicus MGCS10565; MGCS10565; ATCC BAA1716	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+2.864239926739927
+S002288903 Streptococcus equi subsp. zooepidemicus MGCS10565; MGCS10565; ATCC BAA1716	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+2.864239926739927

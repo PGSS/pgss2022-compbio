@@ -1,0 +1,10 @@
+S000772984 uncultured Lactobacillus sp.; W2_maj_048	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+0.0
+S000772982 uncultured Lactobacillus sp.; W2_maj_087	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+0.0
+S000772981 uncultured Lactobacillus sp.; W2_maj_047	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+0.0
+S000772988 uncultured Lactobacillus sp.; W2_maj_104	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+0.0
+S000772989 uncultured Lactobacillus sp.; W2_maj_103	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+0.0

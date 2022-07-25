@@ -218,7 +218,7 @@ def rank(db_fraglen_exprange, sample_exp):
     db_ranked = []
     for bacteria in db_fraglen_exprange:
         db_ranked.append(bacteria)
-    for bacteria in db_ranked:
+    for bacteria in db_ranked: 
         db_diffvalHyp188I = difference_value(sample_exp["fragments_Hpy188I"], bacteria["fragments_Hpy188I"])
         db_diffvalMseI = difference_value(sample_exp["fragments_MseI"], bacteria["fragments_MseI"])
         exp_diffvalHyp188I = difference_value(bacteria["fragments_Hpy188I"], sample_exp["fragments_Hpy188I"])
@@ -234,11 +234,11 @@ def rank(db_fraglen_exprange, sample_exp):
 
 import random
 
-def main(passed_sample):
+def main(passed_sample, will_filter_unnamed):
     db_init = db_import('./Sequence_Analyses.csv')
 
-    random_index = random.randint(0,len(db_init) -1)
-    sample_value = db_init[random_index] #change this to passed sample to use something passed in
+    #random_index = random.randint(0,len(db_init) -1)
+    sample_value = passed_sample #change this to passed sample to use something passed in
 
     #print(len(db_init))
     db_lenfilt = seqlen_filter(sample_value, db_init)
@@ -253,6 +253,11 @@ def main(passed_sample):
 
 
     db_sorted_final_questionmark = rank(db_fraglen_exprange, sample_value)
+
+    #Filters out bacteria with no name if and only if will_filter_unnamed is true
+    if will_filter_unnamed:
+        db_sorted_final_questionmark = [x for x in db_sorted_final_questionmark if "uncultured bacterium" not in x["defline"]]
+
     for bacteria_iter in range(0,5):
         print(db_sorted_final_questionmark[bacteria_iter]["defline"])
         print("Diffval: " + str(db_sorted_final_questionmark[bacteria_iter]["diffval"]))
@@ -261,12 +266,14 @@ def main(passed_sample):
         print("\n")
     print("Total number of matches: " + str(len(db_sorted_final_questionmark)))
 
-    file_name = f'{random.randomint(0,10000)}_manual.txt'
+    file_name = 'testData'
     if('defline' in sample_value):
         file_name = re.match(r'S[0-9]+',sample_value["defline"])[0]
     h = open(f'./{file_name}.txt', 'w')
-    for testdta in db_sorted_final_questionmark:
-        h.write(sample_value["defline"] + "\n")
+    for bacteria in db_sorted_final_questionmark:
+        h.write(bacteria["defline"] + "\n" + 
+        str(bacteria["diffval"]) + "\n")
     h.close()
 
-main(sample_exp)
+
+main(sample_exp, False) #change this to true to filter out unnamed bacterium

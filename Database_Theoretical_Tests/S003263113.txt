@@ -1,0 +1,10 @@
+S003262154 Enterococcus sp. NBRC 12225	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+0.0
+S003263109 Enterococcus gallinarum; NBRC 100675	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+0.0
+S003263113 Enterococcus casseliflavus; NBRC 100679	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+0.0
+S003331577 uncultured organism; ELU0020-T93-S-NI_000148	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+0.0
+S003331574 uncultured organism; ELU0020-T93-S-NI_000145	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+0.0
