@@ -201,17 +201,39 @@ def fraglen_filter_exprange(gel_exp, gel_db, range=100):
 
 
 #FRAGMENT STATISTICAL ANALYSIS
+# for each database length, the difference between its closest length in the sample 
+# is squared and then added to the sum
 def difference_value(exp_lengths, db_lengths):
     sum = 0
-    print(str(exp_lengths) + " " + str(db_lengths))
-    for i in db_lengths:
+    # print(str(exp_lengths) + " " + str(db_lengths)) #debugging code
+    # iterates through the db_lengths
+    for db_length in db_lengths:
         least_difference = 99999
-        for j in exp_lengths:
-            if abs(i-j) < least_difference:
-                least_difference = abs(i-j)
+        # iterates through the exp_lengths
+        for exp_length in exp_lengths:
+            if abs(db_length-exp_length) < least_difference:
+                least_difference = abs(db_length-exp_length)
         sum += least_difference**2
     return float(sum)/len(db_lengths)
     
+def rank(db_fraglen_exprange):
+    db_ranked = []
+    for bacteria in db_fraglen_exprange:
+        db_ranked.append(bacteria)
+    for bacteria in db_ranked:
+        db_diffvalHyp188I = difference_value(sample_exp["fragments_Hpy188I"], bacteria["fragments_Hpy188I"])
+        db_diffvalMseI = difference_value(sample_exp["fragments_MseI"], bacteria["fragments_MseI"])
+        exp_diffvalHyp188I = difference_value(bacteria["fragments_Hpy188I"], sample_exp["fragments_Hpy188I"])
+        exp_diffvalMseI = difference_value(bacteria["fragments_MseI"], sample_exp["fragments_MseI"])
+        db_diffval = (db_diffvalHyp188I + db_diffvalMseI + exp_diffvalHyp188I + exp_diffvalMseI)/4
+        bacteria["diffval"] = db_diffval
+        #print(bacteria["diffval"])
+        #print(f"{i['defline']} \t {i['diffval']}")
+    
+    rank_sorted = sorted(db_ranked, key=lambda x: x["diffval"])
+    return rank_sorted
+
+
 db_init = db_import('./Sequence_Analyses.csv')
 #print(len(db_init))
 db_lenfilt = seqlen_filter(sample_exp, db_init)
@@ -221,21 +243,16 @@ db_lenfilt = seqlen_filter(sample_exp, db_init)
 db_fraglen_dbrange = fraglen_filter_dbrange(sample_exp, db_lenfilt)
 #print(len(db_fraglen_dbrange))
 db_fraglen_exprange = fraglen_filter_exprange(sample_exp, db_fraglen_dbrange)
-print(len(db_fraglen_exprange))
+#print(len(db_fraglen_exprange))
 
-db_ranked = {}
-for i in db_fraglen_exprange:
-    #db_diffval = difference_value(sample_exp["fragments_Hpy188I"], i["fragments_Hpy188I"])
-    #print(i["defline"])
-    #print(db_diffval)
-    #db_ranked[i["defline"]] = db_diffval
-    #print(db_diffval)
-    print(f"{i['fragments_Hpy188I']} \t {i['defline']}")
-#print(db_ranked)
 
-print(len(db_fraglen_exprange))
+db_sorted_final_questionmark = rank(db_fraglen_exprange)
+for bacteria_iter in range(0,5):
+    print(db_sorted_final_questionmark[bacteria_iter]["defline"])
+    print(db_sorted_final_questionmark[bacteria_iter]["diffval"])
+print(len(db_sorted_final_questionmark))
 
 h = open('./testData.txt', 'w')
-for testdta in db_fraglen_exprange:
+for testdta in db_sorted_final_questionmark:
     h.write(testdta["defline"] + "\n")
 h.close()
