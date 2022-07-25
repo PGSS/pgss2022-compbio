@@ -1,20 +1,18 @@
 import csv
-
+from random import *
+import re
 #from Sequence_Analysis import Sequence_Length
 
 #SAMPLE DATA BELOW
 
-#The current sample being used is WM10 Lactobacillus Paracasei
+#The current sample being used is something, idk (fr this time, i have no clue)
 
 #replace with user input (also set +/- gap for seq len)
-sample_exp =  { "seq_length" : 584,   "fragments_MseI" : [531,241],  "fragments_Hpy188I" : [669,472,299]}
+sample_exp = {"seq_length" : 598.1,   "fragments_MseI" : [469.8, 400, 140.5],  "fragments_Hpy188I" : [598.1, 389.4, 215.8]}
 sample_exp["fragments_MseI"] = [x for x in sample_exp["fragments_MseI"] if x <= sample_exp["seq_length"]]
-sample_exp["fragments_MseI"] = [x for x in sample_exp["fragments_MseI"]]
-sample_exp["fragments_MseI"].sort()
-
 sample_exp["fragments_Hpy188I"] = [x for x in sample_exp["fragments_Hpy188I"] if x <= sample_exp["seq_length"]]
-sample_exp["fragments_Hpy188I"] = [x for x in sample_exp["fragments_Hpy188I"]]
-sample_exp["fragments_Hpy188I"].sort()
+
+
 
 #FORMATS SEQUENCE LIST
 def db_import(db_path):
@@ -216,7 +214,7 @@ def difference_value(exp_lengths, db_lengths):
         sum += least_difference**2
     return float(sum)/len(db_lengths)
     
-def rank(db_fraglen_exprange):
+def rank(db_fraglen_exprange, sample_exp):
     db_ranked = []
     for bacteria in db_fraglen_exprange:
         db_ranked.append(bacteria)
@@ -234,25 +232,41 @@ def rank(db_fraglen_exprange):
     return rank_sorted
 
 
-db_init = db_import('./Sequence_Analyses.csv')
-#print(len(db_init))
-db_lenfilt = seqlen_filter(sample_exp, db_init)
-#print(len(db_lenfilt))
-#db_fragfilt = fragnum_filter(sample_exp, db_lenfilt)
-#print(len(db_fragfilt))
-db_fraglen_dbrange = fraglen_filter_dbrange(sample_exp, db_lenfilt)
-#print(len(db_fraglen_dbrange))
-db_fraglen_exprange = fraglen_filter_exprange(sample_exp, db_fraglen_dbrange)
-#print(len(db_fraglen_exprange))
+import random
+
+def main(passed_sample):
+    db_init = db_import('./Sequence_Analyses.csv')
+
+    random_index = random.randint(0,len(db_init) -1)
+    sample_value = db_init[random_index] #change this to passed sample to use something passed in
+
+    #print(len(db_init))
+    db_lenfilt = seqlen_filter(sample_value, db_init)
+    #print(len(db_lenfilt))
+    #db_fragfilt = fragnum_filter(sample_exp, db_lenfilt)
+    #print(len(db_fragfilt))
+    db_fraglen_dbrange = fraglen_filter_dbrange(sample_value, db_lenfilt)
+    #print(len(db_fraglen_dbrange))
+    db_fraglen_exprange = fraglen_filter_exprange(sample_value, db_fraglen_dbrange)
+    #print(len(db_fraglen_exprange))
 
 
-db_sorted_final_questionmark = rank(db_fraglen_exprange)
-for bacteria_iter in range(0,5):
-    print(db_sorted_final_questionmark[bacteria_iter]["defline"])
-    print(db_sorted_final_questionmark[bacteria_iter]["diffval"])
-print(len(db_sorted_final_questionmark))
 
-h = open('./testData.txt', 'w')
-for testdta in db_sorted_final_questionmark:
-    h.write(testdta["defline"] + "\n")
-h.close()
+    db_sorted_final_questionmark = rank(db_fraglen_exprange, sample_value)
+    for bacteria_iter in range(0,5):
+        print(db_sorted_final_questionmark[bacteria_iter]["defline"])
+        print("Diffval: " + str(db_sorted_final_questionmark[bacteria_iter]["diffval"]))
+        #print(db_sorted_final_questionmark[bacteria_iter])
+        #break
+        print("\n")
+    print("Total number of matches: " + str(len(db_sorted_final_questionmark)))
+
+    file_name = f'{random.randomint(0,10000)}_manual.txt'
+    if('defline' in sample_value):
+        file_name = re.match(r'S[0-9]+',sample_value["defline"])[0]
+    h = open(f'./{file_name}.txt', 'w')
+    for testdta in db_sorted_final_questionmark:
+        h.write(sample_value["defline"] + "\n")
+    h.close()
+
+main(sample_exp)
