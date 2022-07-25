@@ -1,6 +1,7 @@
 import csv
 from random import *
 import re
+
 #from Sequence_Analysis import Sequence_Length
 
 #SAMPLE DATA BELOW
@@ -232,8 +233,6 @@ def rank(db_fraglen_exprange, sample_exp):
     return rank_sorted
 
 
-import random
-
 def main(passed_sample, will_filter_unnamed):
     db_init = db_import('./Sequence_Analyses.csv')
 
@@ -249,8 +248,6 @@ def main(passed_sample, will_filter_unnamed):
     #print(len(db_fraglen_dbrange))
     db_fraglen_exprange = fraglen_filter_exprange(sample_value, db_fraglen_dbrange)
     #print(len(db_fraglen_exprange))
-
-
 
     db_sorted_final_questionmark = rank(db_fraglen_exprange, sample_value)
 
