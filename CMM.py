@@ -1,6 +1,6 @@
 import csv
 
-from Sequence_Analysis import Sequence_Length
+#from Sequence_Analysis import Sequence_Length
 
 #SAMPLE DATA BELOW
 
@@ -79,7 +79,7 @@ def fraglen_filter_dbrange(gel_exp, gel_db, reject=100, range=100):
         exp_msei.sort()
         exp_hpy188i = gel_exp["fragments_Hpy188I"]
         exp_hpy188i.sort()
-
+        
         #All bacteria initially assumed to be a match
         potential_match = True
 
@@ -97,6 +97,7 @@ def fraglen_filter_dbrange(gel_exp, gel_db, reject=100, range=100):
             for expv in exp_msei:
                 if lower_range <= expv and expv <= upper_range:
                     range_check = True
+
             if not range_check:
                 potential_match = False
                 break
@@ -140,7 +141,9 @@ def fraglen_filter_exprange(gel_exp, gel_db, range=100):
         exp_msei.sort()
         exp_hpy188i = gel_exp["fragments_Hpy188I"]
         exp_hpy188i.sort()
-
+        
+        db_full_length = bacteria["seq_length"]
+        
         #All bacteria initially assumed to be a match
         potential_match = True
 
@@ -158,7 +161,11 @@ def fraglen_filter_exprange(gel_exp, gel_db, range=100):
             for dbv in db_msei:
                 if lower_range <= dbv and dbv <= upper_range:
                     range_check = True
-            
+
+
+            if lower_range <= db_full_length and db_full_length <= upper_range:
+                range_check = True
+
             #Sequence length check needed
 
             if not range_check:
@@ -179,6 +186,9 @@ def fraglen_filter_exprange(gel_exp, gel_db, range=100):
             for dbv in db_hpy188i:
                 if lower_range <= dbv and dbv <= upper_range:
                     range_check = True
+
+            if lower_range <= db_full_length and db_full_length <= upper_range:
+                range_check = True
             if not range_check:
                 potential_match = False
                 break
