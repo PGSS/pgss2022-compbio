@@ -9,35 +9,26 @@ import re
 #The current sample being used is something, idk (fr this time, i have no clue)
 
 #replace with user input (also set +/- gap for seq len)
-sample_exp = {"seq_length" : 598.1,   "fragments_MseI" : [469.8, 400, 140.5],  "fragments_Hpy188I" : [598.1, 389.4, 215.8]}
+sample_exp = {"seq_length" : 598.1,   "fragments_MseI" : [482.6, 221.7],  "fragments_Hpy188I" : [631.1, 400, 221.7]}
 sample_exp["fragments_MseI"] = [x for x in sample_exp["fragments_MseI"] if x <= sample_exp["seq_length"]]
 sample_exp["fragments_Hpy188I"] = [x for x in sample_exp["fragments_Hpy188I"] if x <= sample_exp["seq_length"]]
-
-
 
 #FORMATS SEQUENCE LIST
 def db_import(db_path):
     with open(db_path, 'r') as seqFile:
-        
         #creates list of definitions for all sequences
         seq = csv.reader(seqFile, delimiter='|')
         database = []
-        
-
         #iterates through sequence list
         next(seq)
         for row in seq:
-
             data = {}
-            
             data["defline"] = row[0]
             data["seq_length"] = int(row[1])
             data["fragments_MseI"] = [int(x) for x in row[2].split(',')]
             data["fragments_Hpy188I"] = [int(x) for x in row[3].split(',')]
-
             #adds the definitions to a list
             database.append(data)
-            
             next(seq)
     return database
 
@@ -257,19 +248,18 @@ def main(passed_sample, will_filter_unnamed):
 
     for bacteria_iter in range(0,5):
         print(db_sorted_final_questionmark[bacteria_iter]["defline"])
-        print("Diffval: " + str(db_sorted_final_questionmark[bacteria_iter]["diffval"]))
+        print("MSE: " + str(db_sorted_final_questionmark[bacteria_iter]["diffval"]))
         #print(db_sorted_final_questionmark[bacteria_iter])
         #break
         print("\n")
     print("Total number of matches: " + str(len(db_sorted_final_questionmark)))
 
-    file_name = 'testData'
+    file_name = 'Lactobacillus casei matches K6'
     if('defline' in sample_value):
         file_name = re.match(r'S[0-9]+',sample_value["defline"])[0]
     h = open(f'./{file_name}.txt', 'w')
     for bacteria in db_sorted_final_questionmark:
-        h.write(bacteria["defline"] + "\n" + 
-        str(bacteria["diffval"]) + "\n")
+        h.write(bacteria["defline"] + "\n" + "MSE: " + str(bacteria["diffval"]) + "\n")
     h.close()
 
 
