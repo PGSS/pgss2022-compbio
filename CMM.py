@@ -1,5 +1,5 @@
 import csv
-from random import *
+import random
 import re
 
 #from Sequence_Analysis import Sequence_Length
@@ -9,7 +9,7 @@ import re
 #The current sample being used is something, idk (fr this time, i have no clue)
 
 #replace with user input (also set +/- gap for seq len)
-sample_exp = {"seq_length" : 598.1,   "fragments_MseI" : [482.6, 221.7],  "fragments_Hpy188I" : [631.1, 400, 221.7]}
+sample_exp = {"seq_length" : 1377,   "fragments_MseI" : [594, 14, 27, 224, 86, 134, 194, 104],  "fragments_Hpy188I" : [375, 36, 178, 703, 33, 52]}
 sample_exp["fragments_MseI"] = [x for x in sample_exp["fragments_MseI"] if x <= sample_exp["seq_length"]]
 sample_exp["fragments_Hpy188I"] = [x for x in sample_exp["fragments_Hpy188I"] if x <= sample_exp["seq_length"]]
 
@@ -227,8 +227,9 @@ def rank(db_fraglen_exprange, sample_exp):
 def main(passed_sample, will_filter_unnamed):
     db_init = db_import('./Sequence_Analyses.csv')
 
-    #random_index = random.randint(0,len(db_init) -1)
-    sample_value = passed_sample #change this to passed sample to use something passed in
+    random_index = random.randint(0,len(db_init) -1)
+    #sample_value = passed_sample #change this to passed sample to use something passed in
+    sample_value = db_init[random_index]
 
     #print(len(db_init))
     db_lenfilt = seqlen_filter(sample_value, db_init)
@@ -246,20 +247,28 @@ def main(passed_sample, will_filter_unnamed):
     if will_filter_unnamed:
         db_sorted_final_questionmark = [x for x in db_sorted_final_questionmark if "uncultured bacterium" not in x["defline"]]
 
-    for bacteria_iter in range(0,5):
+    """ for bacteria_iter in range(0,5):
         print(db_sorted_final_questionmark[bacteria_iter]["defline"])
         print("MSE: " + str(db_sorted_final_questionmark[bacteria_iter]["diffval"]))
         #print(db_sorted_final_questionmark[bacteria_iter])
         #break
         print("\n")
-    print("Total number of matches: " + str(len(db_sorted_final_questionmark)))
+    print("Total number of matches: " + str(len(db_sorted_final_questionmark))) """
 
-    file_name = 'Lactobacillus casei matches K6'
+    file_name = 'testData'
+
     if('defline' in sample_value):
         file_name = re.match(r'S[0-9]+',sample_value["defline"])[0]
+
     h = open(f'./{file_name}.txt', 'w')
+
     for bacteria in db_sorted_final_questionmark:
         h.write(bacteria["defline"] + "\n" + "MSE: " + str(bacteria["diffval"]) + "\n")
+    
+    if "defline" in sample_value:
+        sample_position = db_sorted_final_questionmark.index(sample_value)
+        sample_diff = db_sorted_final_questionmark[sample_position]["diffval"]
+        h.write(f'Source at {sample_position} in the list and the difference is {sample_diff}')
     h.close()
 
 
