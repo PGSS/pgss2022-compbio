@@ -1,44 +1,34 @@
 import csv
+import random
+import re
 
 #from Sequence_Analysis import Sequence_Length
 
 #SAMPLE DATA BELOW
 
-#The current sample being used is WM10 Lactobacillus Paracasei
+#The current sample being used is something, idk (fr this time, i have no clue)
 
 #replace with user input (also set +/- gap for seq len)
 sample_exp =  { "seq_length" : 584,   "fragments_MseI" : [482,201],  "fragments_Hpy188I" : [429,265]}
 sample_exp["fragments_MseI"] = [x for x in sample_exp["fragments_MseI"] if x <= sample_exp["seq_length"]]
-sample_exp["fragments_MseI"] = [x for x in sample_exp["fragments_MseI"]]
-sample_exp["fragments_MseI"].sort()
-
 sample_exp["fragments_Hpy188I"] = [x for x in sample_exp["fragments_Hpy188I"] if x <= sample_exp["seq_length"]]
-sample_exp["fragments_Hpy188I"] = [x for x in sample_exp["fragments_Hpy188I"]]
-sample_exp["fragments_Hpy188I"].sort()
 
 #FORMATS SEQUENCE LIST
 def db_import(db_path):
     with open(db_path, 'r') as seqFile:
-        
         #creates list of definitions for all sequences
         seq = csv.reader(seqFile, delimiter='|')
         database = []
-        
-
         #iterates through sequence list
         next(seq)
         for row in seq:
-
             data = {}
-            
             data["defline"] = row[0]
             data["seq_length"] = int(row[1])
             data["fragments_MseI"] = [int(x) for x in row[2].split(',')]
             data["fragments_Hpy188I"] = [int(x) for x in row[3].split(',')]
-
             #adds the definitions to a list
             database.append(data)
-            
             next(seq)
     return database
 
@@ -201,41 +191,85 @@ def fraglen_filter_exprange(gel_exp, gel_db, range=100):
 
 
 #FRAGMENT STATISTICAL ANALYSIS
+# for each database length, the difference between its closest length in the sample 
+# is squared and then added to the sum
 def difference_value(exp_lengths, db_lengths):
     sum = 0
-    print(str(exp_lengths) + " " + str(db_lengths))
-    for i in db_lengths:
+    # print(str(exp_lengths) + " " + str(db_lengths)) #debugging code
+    # iterates through the db_lengths
+    for db_length in db_lengths:
         least_difference = 99999
-        for j in exp_lengths:
-            if abs(i-j) < least_difference:
-                least_difference = abs(i-j)
+        # iterates through the exp_lengths
+        for exp_length in exp_lengths:
+            if abs(db_length-exp_length) < least_difference:
+                least_difference = abs(db_length-exp_length)
         sum += least_difference**2
     return float(sum)/len(db_lengths)
     
-db_init = db_import('./Sequence_Analyses.csv')
-#print(len(db_init))
-db_lenfilt = seqlen_filter(sample_exp, db_init)
-#print(len(db_lenfilt))
-#db_fragfilt = fragnum_filter(sample_exp, db_lenfilt)
-#print(len(db_fragfilt))
-db_fraglen_dbrange = fraglen_filter_dbrange(sample_exp, db_lenfilt)
-#print(len(db_fraglen_dbrange))
-db_fraglen_exprange = fraglen_filter_exprange(sample_exp, db_fraglen_dbrange)
-print(len(db_fraglen_exprange))
+def rank(db_fraglen_exprange, sample_exp):
+    db_ranked = []
+    for bacteria in db_fraglen_exprange:
+        db_ranked.append(bacteria)
+    for bacteria in db_ranked: 
+        db_diffvalHyp188I = difference_value(sample_exp["fragments_Hpy188I"], bacteria["fragments_Hpy188I"])
+        db_diffvalMseI = difference_value(sample_exp["fragments_MseI"], bacteria["fragments_MseI"])
+        exp_diffvalHyp188I = difference_value(bacteria["fragments_Hpy188I"], sample_exp["fragments_Hpy188I"])
+        exp_diffvalMseI = difference_value(bacteria["fragments_MseI"], sample_exp["fragments_MseI"])
+        db_diffval = (db_diffvalHyp188I + db_diffvalMseI + exp_diffvalHyp188I + exp_diffvalMseI)/4
+        bacteria["diffval"] = db_diffval
+        #print(bacteria["diffval"])
+        #print(f"{i['defline']} \t {i['diffval']}")
+    
+    rank_sorted = sorted(db_ranked, key=lambda x: x["diffval"])
+    return rank_sorted
 
-db_ranked = {}
-for i in db_fraglen_exprange:
-    #db_diffval = difference_value(sample_exp["fragments_Hpy188I"], i["fragments_Hpy188I"])
-    #print(i["defline"])
-    #print(db_diffval)
-    #db_ranked[i["defline"]] = db_diffval
-    #print(db_diffval)
-    print(f"{i['fragments_Hpy188I']} \t {i['defline']}")
-#print(db_ranked)
 
-print(len(db_fraglen_exprange))
+def main(passed_sample, will_filter_unnamed):
+    db_init = db_import('./Sequence_Analyses.csv')
 
-h = open('./testData.txt', 'w')
-for testdta in db_fraglen_exprange:
-    h.write(testdta["defline"] + "\n")
-h.close()
+    random_index = random.randint(0,len(db_init) -1)
+    #sample_value = passed_sample #change this to passed sample to use something passed in
+    sample_value = db_init[random_index]
+
+    #print(len(db_init))
+    db_lenfilt = seqlen_filter(sample_value, db_init)
+    #print(len(db_lenfilt))
+    #db_fragfilt = fragnum_filter(sample_exp, db_lenfilt)
+    #print(len(db_fragfilt))
+    db_fraglen_dbrange = fraglen_filter_dbrange(sample_value, db_lenfilt)
+    #print(len(db_fraglen_dbrange))
+    db_fraglen_exprange = fraglen_filter_exprange(sample_value, db_fraglen_dbrange)
+    #print(len(db_fraglen_exprange))
+
+    db_sorted_final_questionmark = rank(db_fraglen_exprange, sample_value)
+
+    #Filters out bacteria with no name if and only if will_filter_unnamed is true
+    if will_filter_unnamed:
+        db_sorted_final_questionmark = [x for x in db_sorted_final_questionmark if "uncultured bacterium" not in x["defline"]]
+
+    """ for bacteria_iter in range(0,5):
+        print(db_sorted_final_questionmark[bacteria_iter]["defline"])
+        print("MSE: " + str(db_sorted_final_questionmark[bacteria_iter]["diffval"]))
+        #print(db_sorted_final_questionmark[bacteria_iter])
+        #break
+        print("\n")
+    print("Total number of matches: " + str(len(db_sorted_final_questionmark))) """
+
+    file_name = 'testData'
+
+    if('defline' in sample_value):
+        file_name = re.match(r'S[0-9]+',sample_value["defline"])[0]
+
+    h = open(f'./{file_name}.txt', 'w')
+
+    for bacteria in db_sorted_final_questionmark:
+        h.write(bacteria["defline"] + "\n" + "MSE: " + str(bacteria["diffval"]) + "\n")
+    
+    if "defline" in sample_value:
+        sample_position = db_sorted_final_questionmark.index(sample_value)
+        sample_diff = db_sorted_final_questionmark[sample_position]["diffval"]
+        h.write(f'Source at {sample_position} in the list and the difference is {sample_diff}')
+    h.close()
+
+
+main(sample_exp, False) #change this to true to filter out unnamed bacterium

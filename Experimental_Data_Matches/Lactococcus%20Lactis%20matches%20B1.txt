@@ -1,0 +1,1798 @@
+S003037434 uncultured bacterium; 16sms133-1c09	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+2486.9223650904896
+S000602886 uncultured low G+C Gram-positive bacterium; WS06A_G05	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+2493.050178478337
+S002947434 uncultured bacterium; VT013-C4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+2543.006716776428
+S002947444 uncultured bacterium; VT013-H8	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+2761.108638428337
+S003040222 uncultured bacterium; 16sms145-1c01	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+2803.45871001549
+S000506928 uncultured Granulicatella sp.; IS023B31	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+2948.9816421738233
+S003724686 uncultured bacterium; SSC-CP192	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Leuconostocaceae;family;Weissella;genus
+2961.5918773206977
+S000645754 uncultured bacterium; pc06	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+3317.0893654264282
+S003034888 uncultured bacterium; 16saw117-3f07	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+3417.6081612792927
+S002238998 uncultured bacterium; 5AC_F03	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+3483.2366443116707
+S004039232 uncultured bacterium; M2_F12	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+3486.1963284158037
+S004039146 uncultured bacterium; M1_G09	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+3501.575508557471
+S002238961 uncultured bacterium; 5AC_B02	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+3513.013564928337
+S002239018 uncultured bacterium; 5AC_H06	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+3523.820919070004
+S004402321 uncultured bacterium; B64_144	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+3547.71053964879
+S004039202 uncultured bacterium; M2_C10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+3566.7271771196565
+S004039204 uncultured bacterium; M2_F09	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+3566.7271771196565
+S004039203 uncultured bacterium; M2_E09	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+3566.7271771196565
+S001149253 uncultured bacterium; 2FJ-15	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+3596.054557440423
+S003663809 uncultured bacterium; 16sms293-2f09	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+3650.530098119657
+S003043856 uncultured bacterium; 16sms231-3g07	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+3836.24436583629
+S003043829 uncultured bacterium; 16sms231-3d08	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+3862.224084344657
+S001565307 uncultured bacterium; DGGE gel band Xiqin20-3	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+3911.228582959695
+S001565306 uncultured bacterium; DGGE gel band Xiqin20-2	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+3911.228582959695
+S002890723 uncultured bacterium; BSTSD-43	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Carnobacterium;genus
+3911.638917407157
+S004039359 uncultured bacterium; M2andM3_F07	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+3914.8981405071563
+S003278488 Leuconostoc sp. murgbL4ap	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Leuconostocaceae;family;Leuconostoc;genus
+3918.287175295697
+S003043459 uncultured bacterium; 16sms230-2a07	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+3932.06001148629
+S003043765 uncultured bacterium; 16sms231-2f06	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+3935.065505257157
+S003043183 uncultured bacterium; 16sms229-1c11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+4050.99248116129
+S003043734 uncultured bacterium; 16sms231-2c07	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+4109.698693207157
+S003663127 uncultured bacterium; 16sms223-3c08	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+4139.5106629571565
+S003663808 uncultured bacterium; 16sms293-2h05	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+4235.535651569658
+S002239007 uncultured bacterium; 5AC_G02	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+4239.917540291792
+S003034463 uncultured bacterium; 16saw116-1f02	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+4246.599880079291
+S003728079 uncultured bacterium; CAP14-21	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+4323.31615611167
+S001889893 Streptococcus parasanguinis; CX021	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+4384.096326059695
+S002947429 uncultured bacterium; VT013-A8	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+4419.192733751428
+S002947404 uncultured bacterium; VT012-A7	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+4475.946298176428
+S002947432 uncultured bacterium; VT013-C12	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+4475.946298176428
+S002947431 uncultured bacterium; VT013-B8	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+4475.946298176428
+S002947436 uncultured bacterium; VT013-E11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+4475.946298176428
+S002947435 uncultured bacterium; VT013-D8	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+4475.946298176428
+S002947441 uncultured bacterium; VT013-F11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+4475.946298176428
+S002947438 uncultured bacterium; VT013-E7	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+4475.946298176428
+S002947446 uncultured bacterium; VT015-G10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+4475.946298176428
+S002947445 uncultured bacterium; VT015-F10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+4475.946298176428
+S002947447 uncultured bacterium; VT015-H10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+4475.946298176428
+S003663805 uncultured bacterium; 16sms293-3g06	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+4480.677290557157
+S002947443 uncultured bacterium; VT013-G8	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+4553.103306576428
+S003041071 uncultured bacterium; 16sms152-1c08	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+4689.745241632157
+S003045018 uncultured bacterium; 16sms237-1b04	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+4728.463732844657
+S002947402 uncultured bacterium; VT012-A5	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+4741.521686728338
+S002947407 uncultured bacterium; VT012-C4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+4741.521686728338
+S002947408 uncultured bacterium; VT012-D12	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+4741.521686728338
+S002947410 uncultured bacterium; VT012-E4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+4741.521686728338
+S002947413 uncultured bacterium; VT012-F4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+4741.521686728338
+S002947423 uncultured bacterium; VT012-H4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+4741.521686728338
+S003663801 uncultured bacterium; 16sms293-2c09	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+5012.0491851071565
+S001423539 uncultured Firmicutes bacterium; OB_92	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+5121.229473629292
+S003663807 uncultured bacterium; 16sms293-1c06	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+5270.641641169656
+S002010538 uncultured Firmicutes bacterium; N4-144	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+5440.345878441793
+S000819352 uncultured bacterium; WL_eu24_60	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Desemzia;genus
+5492.371652741791
+S001423854 uncultured Bacteroidetes bacterium; TOI_116	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+5645.118587879294
+S001892086 Granulicatella adiacens; ATC_H37_11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+5708.352578265423
+S001210739 uncultured bacterium; A0-260405-a2	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+5715.79020366358
+S001892146 Granulicatella adiacens; SA033	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+5749.046029523757
+S001892095 Granulicatella adiacens; ATC_H37_4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+5878.126383298757
+S001423480 uncultured Firmicutes bacterium; OB_116	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+5944.1953727783375
+S000602892 uncultured low G+C Gram-positive bacterium; WS06B_B02	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+6010.271452454291
+S001160563 uncultured bacterium; 1-h02	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+6040.774715526428
+S001889247 Abiotrophia defectiva; ATC_H38_51	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Aerococcaceae;family;Abiotrophia;genus
+6084.67888330709
+S001889202 Abiotrophia defectiva; SC031	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Aerococcaceae;family;Abiotrophia;genus
+6137.0989524237575
+S004524089 uncultured Enterococcus sp.; 0214_117_128_PK82_PKR	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+6283.428116366791
+S004133112 uncultured bacterium; EBP0789	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+6351.864395528338
+S004053385 Lactobacillus salivarius; VAMC1195	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+6524.0235017950035
+S004200781 uncultured bacterium; 7-1-5-7	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+6579.437637466792
+S000562299 uncultured Lactobacillus sp.; 1C7	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+6601.407486928338
+S000981845 uncultured bacterium; megu17	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+6601.407486928338
+S000981880 uncultured bacterium; megu59	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+6601.407486928338
+S000981863 uncultured bacterium; megu39	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+6601.407486928338
+S004524390 uncultured Enterococcus sp.; 0114_371_056_PK-44_PKR	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+6640.953896466791
+S000944171 uncultured bacterium; W1635	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+6787.219481103271
+S004524391 uncultured Enterococcus sp.; 0114_371_057_PK-46_PKR	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+6819.397347154291
+S001895301 Enterococcus faecalis; CMC1202	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+6826.849023215424
+S001895302 Enterococcus faecalis; CMC1260	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+6869.601927052924
+S001895312 Enterococcus faecalis; CMC972	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+6869.601927052924
+S001895311 Enterococcus faecalis; CMC969	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+6869.601927052924
+S001895310 Enterococcus faecalis; CMC962	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+6869.601927052924
+S001895308 Enterococcus faecalis; CMC955	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+6869.601927052924
+S000472818 Enterococcus durans; PS81	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+6932.729830890425
+S001892576 Granulicatella adiacens; PJ058	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+6953.112783015425
+S001889181 Abiotrophia defectiva; ATC_H38_66	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Aerococcaceae;family;Abiotrophia;genus
+7005.580531015425
+S001892180 Granulicatella adiacens; BL041	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7008.969644765424
+S001895423 Enterococcus faecalis; WK062	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7032.682562077925
+S001895413 Enterococcus faecalis; WK038	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7043.190514202924
+S001889399 Abiotrophia defectiva; SH055	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Aerococcaceae;family;Abiotrophia;genus
+7078.711338690425
+S001895401 Enterococcus faecalis; WK011	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7105.313369752925
+S001895436 Enterococcus faecalis; XQ062	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7110.349782602923
+S001892589 Granulicatella adiacens; RX013	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7132.476927052924
+S001895394 Enterococcus faecalis; WK002	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7141.709558115424
+S001895427 Enterococcus faecalis; WK068	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7143.316273590425
+S001892168 Granulicatella adiacens; ATC_H300_75	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7157.234163952924
+S001895422 Enterococcus faecalis; WK061	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7182.444177427924
+S001895397 Enterococcus faecalis; WK005	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7185.194177427924
+S001895416 Enterococcus faecalis; WK047	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7188.452129552923
+S001892139 Granulicatella adiacens; PM051	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7205.482734727924
+S003902162 uncultured bacterium; 278	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+7213.791251976428
+S001895398 Enterococcus faecalis; WK007	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7225.322081265424
+S001895414 Enterococcus faecalis; WK040	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7230.186748865424
+S001895419 Enterococcus faecalis; WK054	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7308.952888940423
+S001895417 Enterococcus faecalis; WK049	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7309.721173465424
+S001895418 Enterococcus faecalis; WK051	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7311.577888940423
+S001895411 Enterococcus faecalis; WK035	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7313.934604415423
+S001889353 Abiotrophia defectiva; SM015	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Aerococcaceae;family;Abiotrophia;genus
+7387.731665552924
+S000472783 Enterococcus malodoratus; PS104	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7388.6179650154245
+S001895426 Enterococcus faecalis; WK067	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7397.351981140424
+S001892595 Granulicatella adiacens; SP030	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7404.134539102924
+S001889296 Abiotrophia defectiva; CH010	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Aerococcaceae;family;Abiotrophia;genus
+7425.984569390424
+S001892416 Granulicatella adiacens; ATC_H11_10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7460.250157752924
+S001895184 Granulicatella elegans; HO049	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7476.376586977924
+S001745472 Enterococcus faecium; CA12	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7482.386773102924
+S001892453 Granulicatella adiacens; ATC_H302_81	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7508.503061590423
+S001568796 uncultured bacterium; P1_14	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7530.386773102924
+S000906395 uncultured Bacilli bacterium; MS020A1_E07	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+7557.561495365423
+S001892423 Granulicatella adiacens; ATC_T15_1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7568.005965427924
+S001895410 Enterococcus faecalis; WK033	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7582.480644365424
+S001895207 Granulicatella elegans; YA001	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7591.757394652923
+S000035089 Granulicatella elegans; SK909	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7598.635298490423
+S000035082 Granulicatella elegans; SK892	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7598.635298490423
+S001889398 Abiotrophia defectiva; SH014	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Aerococcaceae;family;Abiotrophia;genus
+7627.746184740425
+S000540019 Enterococcus faecium; uc1404	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7629.014676940424
+S001889271 Abiotrophia defectiva; ATC_H112_27	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Aerococcaceae;family;Abiotrophia;genus
+7680.855804052924
+S001054640 uncultured bacterium; YO00044H03	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7684.145484615425
+S000035081 Granulicatella adiacens; SK897	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7688.645484615425
+S000035078 Granulicatella adiacens; SK930	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7688.645484615425
+S000511813 Granulicatella adiacens	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7688.645484615425
+S000752100 Granulicatella adiacens; 24025267 HGS	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7707.148388452924
+S001889217 Abiotrophia defectiva; PJ091	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Aerococcaceae;family;Abiotrophia;genus
+7720.769010002924
+S001889362 Abiotrophia defectiva; ATC_A84_18	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Aerococcaceae;family;Abiotrophia;genus
+7735.358707890425
+S001895183 Granulicatella elegans; HO044	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7768.516106165424
+S001895228 Granulicatella elegans; GA060	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7773.2661061654235
+S001895402 Enterococcus faecalis; WK014	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7790.1252118404245
+S001889283 Abiotrophia defectiva; ATC_H302_49	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Aerococcaceae;family;Abiotrophia;genus
+7792.7469441279245
+S001745471 Enterococcus faecium; M2d	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7826.276292290425
+S000910208 uncultured Bacilli bacterium; MS142A1_H06	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7845.115814502924
+S001745468 Enterococcus faecium; Mori1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+7871.904196127924
+S001892206 Granulicatella adiacens; FP023	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+7944.800642480424
+S000909504 uncultured Bacilli bacterium; MS127A1_F12	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+7985.819716280424
+S001892449 Granulicatella adiacens; ATC_H301_78	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+8002.5291961279245
+S001892566 Granulicatella adiacens; OEN003	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+8002.5291961279245
+S001894304 Streptococcus cristatus; ATC_H302_82	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+8044.75195453756
+S001892164 Granulicatella adiacens; ATC_T5_4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+8182.743519405423
+S001892480 Granulicatella adiacens; FJ022	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+8237.503705530424
+S001895408 Enterococcus faecalis; WK027	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+8267.824267510425
+S001892204 Granulicatella adiacens; FO060	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+8285.620670175424
+S001892468 Granulicatella adiacens; FI008	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+8407.103705530424
+S001892426 Granulicatella adiacens; ATC_A21_27	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+8488.363547100424
+S001892205 Granulicatella adiacens; FP020	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+8504.574971715423
+S001892316 Granulicatella adiacens; OCX084	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+8504.574971715423
+S000035074 Granulicatella adiacens; SK906	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+8506.652122485424
+S001892289 Granulicatella adiacens; JQ070	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+8562.063547100423
+S000617184 Lactobacillus fructivorans; ATCC 8288	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+8736.928397005559
+S001892237 Granulicatella adiacens; GM023	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+8741.129273255423
+S001892275 Granulicatella adiacens; HV050	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+8741.129273255423
+S001895186 Granulicatella elegans; IC009	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+8741.129273255423
+S002226418 Lactobacillus paracasei; Alp-2-3	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+9319.573625755562
+S000392609 Lactobacillus casei; JSW10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+9332.66301315556
+S000254165 Lactobacillus paracasei; VUP 12006	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+9836.389603355561
+S003301878 Lactobacillus casei; Gouda-8	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+9859.85260055556
+S003301872 Lactobacillus casei; CCC-2	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+9938.902890055559
+S003301873 Lactobacillus casei; CCC-6	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+9988.164594955559
+S002226419 Lactobacillus casei; Alp-2-8	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+10129.54520615556
+S000609028 uncultured Lactobacillus sp.; child 10; 2F10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+10280.60294880556
+S002393042 uncultured bacterium; EHKTU	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Atopococcus;genus
+10378.159827305557
+S000033285 uncultured bacterium; slf162	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+10506.605251249137
+S001674893 uncultured Streptococcus sp.; F-K55	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+10599.26823176167
+S000392647 Lactobacillus casei; YDT21	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+10631.901028205559
+S000569155 uncultured bacterium; 12C-M63	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+10712.066449628339
+S000569215 uncultured bacterium; OS-30	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+10712.066449628339
+S003507145 uncultured Lactobacillus sp.; PM6_-0.5-25	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+10800.078004803336
+S001674892 uncultured bacterium; F-K51	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+10915.498327478337
+S000609030 Lactobacillus gasseri; child 10; 4F10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+10943.445539536287
+S003265947 uncultured Enterococcus sp.; asc-9	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+11014.01152236167
+S000609022 Lactobacillus crispatus; child 4; 3F4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+11087.811053182471
+S002038187 uncultured bacterium; 3930453-LUNG_FBN	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+11335.236897082155
+S002239211 uncultured bacterium; 17AB_D03	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+11405.344342020002
+S004005395 uncultured bacterium; a-2-4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;unclassified_Carnobacteriaceae;
+11415.648116351429
+S001351005 Vagococcus sp. T416	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Vagococcus;genus
+11487.262168920957
+S004111010 uncultured bacterium; A1-63	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+11531.98568608667
+S004111265 uncultured bacterium; H22-31	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+11531.98568608667
+S003265956 uncultured Enterococcus sp.; asc-18	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+11547.413455929292
+S004111015 uncultured bacterium; A1-69	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+11643.07508931167
+S003506546 uncultured Streptococcaceae bacterium; PM5_-2.8-57	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+11668.75727468667
+S003796530 uncultured bacterium; TY9815	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+11679.558067545004
+S003796440 uncultured bacterium; TY3916	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+11736.415509811668
+S003265972 uncultured Enterococcus sp.; asc-34	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+11954.32424714596
+S003265957 uncultured Enterococcus sp.; asc-19	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+11965.989552762625
+S003265967 uncultured Enterococcus sp.; asc-29	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+11992.272260054291
+S004113110 uncultured bacterium; G1101.0338-4_92	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12001.845224220004
+S000608982 Lactobacillus jensenii; mother 4; 1EV4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+12027.82624135747
+S000608977 Lactobacillus jensenii; mother 3; 1EV3	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+12027.82624135747
+S000608992 Lactobacillus jensenii; mother 10; 1EV10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+12027.82624135747
+S004113293 uncultured bacterium; G1101.0262-4_16	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12029.714441495002
+S003265954 uncultured Enterococcus sp.; asc-16	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;unclassified_Enterococcaceae;
+12043.215286041792
+S003686272 uncultured bacterium; GKJWQY101BZ7Q5	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+12189.60990161129
+S003265968 uncultured Enterococcus sp.; asc-30	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12228.70682232929
+S001674905 uncultured Desemzia sp.; B-K63	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Desemzia;genus
+12234.58042569179
+S003265958 uncultured Enterococcus sp.; asc-20	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12243.70868299179
+S003265965 uncultured Enterococcus sp.; asc-27	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12244.389162116791
+S002492512 uncultured Lactococcus sp.; DGGE gel band 4; Ch4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12252.77944822929
+S003265946 uncultured Enterococcus sp.; asc-8	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12282.296869408457
+S003265952 uncultured Enterococcus sp.; asc-14	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12282.296869408457
+S004131278 uncultured Lactococcus sp.; SW1-5	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12284.26693628247
+S002238994 uncultured bacterium; 5AC_E11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12312.917945883459
+S002500642 uncultured bacterium; DGGE gel band Z37	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+12331.431546316791
+S004110983 uncultured bacterium; A1-34	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12358.21515254179
+S004110981 uncultured bacterium; A1-32	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12358.21515254179
+S004111017 uncultured bacterium; A1-71	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12358.21515254179
+S003507149 uncultured Enterococcus sp.; PM6_-0.5-29	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12363.507170629291
+S001674885 uncultured bacterium; F-K33	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+12375.900455154293
+S004510660 uncultured bacterium; Bact-Avo41.1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12409.294034491792
+S004450545 Enterococcus sp. AfA50	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12418.987890829292
+S004397305 uncultured prokaryote; B5-1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12446.63111874596
+S004397303 uncultured prokaryote; B1-3	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12446.63111874596
+S004397309 uncultured prokaryote; B9-2	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12446.63111874596
+S004397314 uncultured prokaryote; B11-1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12446.63111874596
+S004397315 uncultured prokaryote; B11-3	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12446.63111874596
+S004397321 uncultured prokaryote; B18-1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12446.63111874596
+S004397310 uncultured prokaryote; B9-3	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12446.63111874596
+S004397325 uncultured prokaryote; B19-3	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12446.63111874596
+S004542539 uncultured bacterium; JA45_3a	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12446.63111874596
+S004273124 uncultured bacterium; DGGE gel band GX406002	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12459.31290864179
+S004273132 uncultured bacterium; DGGE gel band GX4060016	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12459.31290864179
+S002202509 uncultured bacterium; 3_4B_11_2	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Aerococcaceae;family;Facklamia;genus
+12482.566716170957
+S004273268 uncultured Enterococcus sp.; S2-72	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12482.566716170957
+S004273266 uncultured Enterococcus sp.; S2-54	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12482.566716170957
+S003265971 uncultured Enterococcus sp.; asc-33	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12485.125711483457
+S003796412 uncultured bacterium; TY3302	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+12496.835000695959
+S003796476 uncultured bacterium; TY8008	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+12496.835000695959
+S003796541 uncultured bacterium; TY12203	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+12496.835000695959
+S001992827 uncultured bacterium; F5K2Q4C04IJ9B4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+12502.57977138247
+S003267320 uncultured bacterium; T5.5b2-M13-RP	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Carnobacterium;genus
+12514.793628841791
+S003267328 uncultured bacterium; T5.6b5-M13-RP	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Carnobacterium;genus
+12514.793628841791
+S003265959 uncultured Enterococcus sp.; asc-21	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12516.29773084596
+S002239136 uncultured bacterium; 13AC_C11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12543.862691973824
+S003686036 uncultured Firmicutes bacterium; GKJWQY101AW4W1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+12554.61024951129
+S004006557 Streptococcus sp. HFB0008	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+12557.853512349137
+S000915974 uncultured Bacilli bacterium; MS005A1_F06	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+12577.443841469656
+S000629184 uncultured bacterium; CD0103: patient 01 DGGE band 03	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12580.122454183456
+S000629190 uncultured bacterium; CD1203: patient 12 DGGE band 03	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12580.122454183456
+S003279713 Lactobacillus paracasei; Lab6	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+12590.419880755562
+S000602646 uncultured low G+C Gram-positive bacterium; WS04B_B07	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12594.91776311679
+S003265949 uncultured Enterococcus sp.; asc-11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12620.462151883457
+S000602607 uncultured low G+C Gram-positive bacterium; WS04A_F09	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12636.742137075125
+S000608983 Lactobacillus crispatus; mother 4; 2EV4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+12688.460636369624
+S000608987 Lactobacillus crispatus; mother 9; 2EV9	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+12688.460636369624
+S003265962 uncultured Enterococcus sp.; asc-24	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+12688.942872083458
+S001895965 Lactobacillus gasseri; WWC_C5AKM071	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+12762.472892790802
+S004112923 uncultured bacterium; E12-54	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12808.628316895956
+S000392622 Lactobacillus zeae; MATT9	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+12813.47049135556
+S004113109 uncultured bacterium; B4-86	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12838.519542287626
+S004397304 uncultured prokaryote; B2-1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+12852.787826812626
+S000608995 uncultured bacterium; mother 10; 6EV10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+12871.836395752956
+S000608984 Lactobacillus crispatus; mother 4; 5EV4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+12889.872316619623
+S002034863 Lactobacillus casei; K3/24	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+12963.916701155558
+S004007662 Lactobacillus sp.A A35	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+12986.539170681532
+S001091004 uncultured Lactobacillus sp.; DGGE gel band LY04	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+13022.196908620957
+S004039113 uncultured bacterium; M1_D05	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Aerococcaceae;family;Facklamia;genus
+13073.234402025124
+S004039114 uncultured bacterium; M1_H07	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Aerococcaceae;family;Facklamia;genus
+13086.44944910429
+S003265945 uncultured Enterococcus sp.; asc-7	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+13119.489868304292
+S001895137 Granulicatella elegans; WWD_7A_MC62	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+13149.799927402955
+S000392607 Lactobacillus zeae; JVW4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+13190.107180855557
+S000093428 Lactobacillus malefermentans; DSM 20570	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+13212.416801265805
+S003387687 uncultured bacterium; BX17A_H1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+13212.730821383459
+S002393599 uncultured bacterium; ERAUM	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Atopostipes;genus
+13300.247386445
+S004519010 uncultured bacterium; DGGE gel band CES 5	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+13381.119772386532
+S002387662 uncultured bacterium; BTBZ4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Atopostipes;genus
+13422.04560431167
+S002817870 uncultured bacterium; GDIC2IK01DYYKJ	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+13443.376494505561
+S002518189 uncultured bacterium; DGGE gel band 11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+13447.854695211532
+S001210744 uncultured bacterium; B0-080607-b3	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+13487.608006474864
+S004200776 uncultured Enterococcus sp.; 3-1-3-5	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+13552.961514483459
+S004522254 uncultured bacterium; garden_soil_57263	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+13628.13422872414
+S003090734 uncultured Vagococcus sp.; POM_055R	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;unclassified_Enterococcaceae;
+13648.056016070846
+S000609025 uncultured Lactobacillus sp.; child 9; 2F9	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+13697.31501916129
+S004200784 uncultured Enterococcus sp.; 8-1-3-8	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+13742.412634458457
+S003265950 uncultured Enterococcus sp.; asc-12	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+13776.605401895958
+S002944932 uncultured Streptococcus sp.; 1.25	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;unclassified_Streptococcaceae;
+13836.512449945925
+S004079457 Enterococcus casseliflavus; M2_1_2TCO2	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+13919.448003770958
+S002356713 uncultured bacterium; BFV02_34	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+13922.624824495851
+S003686305 uncultured bacterium; GKJWQY101A2BI6	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+13931.797219536289
+S000775049 Lactobacillus sp. JCM 1013	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14011.521525815804
+S000342261 uncultured Lactobacillus sp.; LabF365	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14019.66239230556
+S000435066 Lactobacillus brevis; PL9012	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14057.299878805563
+S001351007 Vagococcus sp. T418	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Vagococcus;genus
+14093.776814420959
+S003686363 uncultured bacterium; GKJWQY101BO8DY	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+14116.611172153336
+S001148376 uncultured bacterium; WI36(OTU-3)	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Alkalibacterium;genus
+14271.245526864424
+S000265795 uncultured bacterium; GC112.15	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14299.108210255563
+S004039249 uncultured bacterium; M2andM3_F02	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Jeotgalibaca;genus
+14304.277103480488
+S000407767 Lactobacillus brevis; BJ1-1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14316.082784604185
+S000356217 Lactobacillus casei; PB2	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14397.688519506091
+S004273260 uncultured Nostocoida sp.; S2-31	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+14475.378243105246
+S004273239 uncultured Trichococcus sp.; S1-35	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+14475.378243105246
+S004273240 uncultured Nostocoida sp.; S1-39	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+14475.378243105246
+S004273282 uncultured Trichococcus sp.; S3-29	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+14475.378243105246
+S003685970 uncultured Lactococcus sp.; GKJWQY101BMQ9V	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14483.001330664427
+S004005411 uncultured bacterium; a-5-5	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+14501.920703196913
+S003437029 uncultured Lactobacillus sp.; BV_LV_OTU1042	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14513.527332645002
+S002354683 Lactobacillus rhamnosus; 38-180a	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14523.334770222755
+S004251272 uncultured bacterium; CloningB9C12	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14526.933878331709
+S003655767 uncultured Lactobacillus sp.; F7SSZP003GSQA4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+14592.103456704182
+S000920781 uncultured Bacilli bacterium; MS219A1_C08	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+14608.027896561289
+S002354675 Lactobacillus rhamnosus; 35-164	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14611.72152350609
+S001148339 uncultured bacterium; SP14(OTU-4)	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Alkalibacterium;genus
+14627.266033439426
+S003437338 uncultured Lactobacillus sp.; BV_LV_OTU5494	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14646.255025195003
+S000401599 Lactobacillus zeae; ATCC 15820	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14651.425742679183
+S000401598 Lactobacillus casei ATCC 393	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14651.425742679183
+S004592245 uncultured bacterium; GCSTWT_16S_7675	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+14701.72425920556
+S000825240 Lactobacillus casei; BFT1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14750.493072429184
+S001903119 Lactobacillus paracasei; CX006	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14751.080107070848
+S003437102 uncultured Lactobacillus sp.; BV_LV_OTU1682	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14774.660307578335
+S000912745 uncultured Bacilli bacterium; MS077A1_F11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14779.37043675556
+S003436929 uncultured Lactobacillus sp.; BV_LV_OTU184	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14793.518127595002
+S001293261 Lactobacillus kefiranofaciens subsp. null; ZW3	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14832.423493345002
+S001892496 Granulicatella adiacens; JK058	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+14832.87015892379
+S000439981 Lactobacillus zeae; ATCC 393	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14858.934108195846
+S003724238 uncultured bacterium; SludgeF_upper_116	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+14880.906807470848
+S002911626 Lactobacillus pobuzihii; NB61	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14906.708625150575
+S000617187 Lactobacillus homohiochii; ATCC 15434	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14935.02094417085
+S003090730 uncultured Vagococcus sp.; POM_047R	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;unclassified_Enterococcaceae;
+14939.156646529182
+S001016668 uncultured bacterium; K2A-H12	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+14985.99670703762
+S000472446 Enterococcus mundtii; CP153-4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+14992.209083770958
+S000745042 uncultured Firmicutes bacterium; M0018_107	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+14995.40880677096
+S002500525 uncultured bacterium; 107	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Atopostipes;genus
+15044.560347649136
+S000929131 uncultured bacterium; 02_D12	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15068.122776282467
+S001578574 uncultured bacterium; DGGE gel 2 band 11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+15089.764821783458
+S004005407 uncultured bacterium; a-5-1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+15135.914171062665
+S004005410 uncultured bacterium; a-5-4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+15135.914171062665
+S004005408 uncultured bacterium; a-5-2	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+15135.914171062665
+S004005409 uncultured bacterium; a-5-3	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+15135.914171062665
+S003685984 uncultured Lactobacillus sp.; GKJWQY101B11M0	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+15162.748373447757
+S001578583 uncultured bacterium; DGGE gel 4 band 5	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+15166.370541983459
+S001578570 uncultured bacterium; DGGE gel 2 band 5	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+15166.370541983459
+S003549974 uncultured Enterococcus sp.; MXVK22	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+15182.12699827096
+S003437181 uncultured Lactobacillus sp.; BV_LV_OTU2760	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15226.741673758459
+S000513697 uncultured bacterium; PI48H10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Vagococcus;genus
+15232.101562833455
+S004524094 uncultured Enterococcus sp.; 0214_117_133_PK91_PKR	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+15237.892694116792
+S001578564 uncultured bacterium; DGGE gel 1 band 16	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+15243.517928850124
+S001578612 uncultured bacterium; DGGE gel 5 band 7	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+15243.517928850124
+S003437194 uncultured Lactobacillus sp.; BV_LV_OTU2904	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+15245.420571791792
+S001892418 Granulicatella adiacens; ATC_H107_13	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+15247.91633429879
+S000703214 uncultured bacterium; HPG-SRK-34	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+15249.782250324137
+S003437121 uncultured Lactobacillus sp.; BV_LV_OTU1961	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15286.943682120958
+S000472447 Enterococcus mundtii; CP153-6	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+15301.88196457096
+S000472448 Enterococcus mundtii; CP153-7	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+15301.88196457096
+S003809131 Lactobacillus alimentarius; S41	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15303.273814139426
+S003437225 uncultured Lactobacillus sp.; BV_LV_OTU3228	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+15327.589966825124
+S000609020 Lactobacillus crispatus; mother 10; 8EV10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15328.890031652954
+S000609018 Lactobacillus crispatus; mother 10; 5EV10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15328.890031652954
+S000472449 Enterococcus mundtii; CP153-11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+15334.10887724179
+S001350709 Pediococcus sp. MUU10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Pediococcus;genus
+15355.574250495849
+S004084193 Lactobacillus rhamnosus GG	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15376.11516805609
+S003437297 uncultured Lactobacillus sp.; BV_LV_OTU4650	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15388.158152358457
+S000129059 Streptococcus anginosus subsp. null; ATCC 33397	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+15404.872709012514
+S004546309 uncultured bacterium; I74_G11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15420.739272482046
+S001304621 uncultured bacterium; Pol_b122	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+15421.83826470976
+S001315312 uncultured bacterium; Arg_c39	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+15434.56003750976
+S003437065 uncultured Lactobacillus sp.; BV_LV_OTU1258	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15447.776975579292
+S003437239 uncultured Lactobacillus sp.; BV_LV_OTU3484	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15617.452537175126
+S004524095 uncultured Enterococcus sp.; 0214_117_134_PK94_PKR	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+15641.275212691791
+S003437303 uncultured Lactobacillus sp.; BV_LV_OTU4792	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15672.086721970958
+S003286854 Lactobacillus sp. M23	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15699.37221767276
+S003437259 uncultured Lactobacillus sp.; BV_LV_OTU3846	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+15702.26567423346
+S004227143 Streptococcus pyogenes; GZSR-2	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+15704.188970795001
+S000825259 Lactobacillus rhamnosus; A28-3a	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15706.674910831092
+S004079465 Enterococcus casseliflavus; M2_5_1BCO2	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+15720.366084270956
+S003437210 uncultured Lactobacillus sp.; BV_LV_OTU2993	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15721.404924237626
+S000825246 Lactobacillus rhamnosus; FMDT2	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15721.61490997276
+S000825285 Lactobacillus rhamnosus; T28-1a	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15721.61490997276
+S000825273 Lactobacillus rhamnosus; P0-1b	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15721.61490997276
+S003803750 Lactobacillus rhamnosus; 001-SMT40 (c)	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15745.018468389426
+S003437311 uncultured Lactobacillus sp.; BV_LV_OTU4903	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15759.20062385429
+S000846426 uncultured bacterium; AP10S.234	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15761.446053572758
+S004592381 uncultured bacterium; GCSTWT_16S_8011	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Catellicoccus;genus
+15772.823536170848
+S000540181 Lactobacillus sp. Am 09	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15786.133126689423
+S003437355 uncultured Lactobacillus sp.; BV_LV_OTU5903	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15800.836214520956
+S001315579 uncultured bacterium; Arg_e6	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+15851.224021779186
+S000846659 uncultured bacterium; AP10S.228	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15883.157195456093
+S003437074 uncultured Lactobacillus sp.; BV_LV_OTU1338	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15891.831543175125
+S001903844 Lactobacillus rhamnosus; HT010	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15904.877834772758
+S001903845 Lactobacillus rhamnosus; HT013	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15904.877834772758
+S001903843 Lactobacillus rhamnosus; HT008	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15904.877834772758
+S001903848 Lactobacillus rhamnosus; HT032	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15904.877834772758
+S001903846 Lactobacillus rhamnosus; HT018	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15904.877834772758
+S001903850 Lactobacillus rhamnosus; HT034	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15904.877834772758
+S001903852 Lactobacillus rhamnosus; HT039	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15904.877834772758
+S001016747 uncultured bacterium; K1F-H07	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15909.59475419762
+S003803749 Lactobacillus rhamnosus; 001-SMT40 (a)	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+15955.56128550609
+S001893532 Streptococcus anginosus subsp. null; UR040	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+15995.257370565803
+S000439978 Lactobacillus rhamnosus; ATCC 21052	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16021.370875256089
+S000439976 Lactobacillus rhamnosus; ATCC 7469a	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16021.370875256089
+S000439980 Lactobacillus rhamnosus; ATCC 7469; CCC B1039	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16021.370875256089
+S001150039 uncultured bacterium; DE00599B06	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+16023.101961918088
+S000439977 Lactobacillus rhamnosus; ATCC 8530	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16031.227541064422
+S001309805 uncultured bacterium; Ger_f9	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16043.061319564424
+S000871852 bacterium Urffh18	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16069.976754484758
+S003466406 uncultured bacterium; SK021.2.W.012	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+16126.635065611215
+S003686564 uncultured compost bacterium; GKJWQY101AXGVZ	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16145.918334339427
+S003613898 Enterococcus italicus; E109	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+16155.529708929293
+S001313381 uncultured bacterium; Ch_g49	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;unclassified_Carnobacteriaceae;
+16166.40609407276
+S003437252 uncultured Lactobacillus sp.; BV_LV_OTU3752	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16166.813538158456
+S003468197 uncultured bacterium; SK120.1.E.045	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+16169.03567480288
+S003633926 uncultured bacterium; SBB09	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+16172.857098569548
+S003899372 uncultured Vagococcus sp.; OTU#830	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;unclassified_Enterococcaceae;
+16174.146301228338
+S001016756 uncultured bacterium; K1F-B09	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16180.434477315954
+S003301871 Lactobacillus brevis; CCB-1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16209.292268490992
+S001044660 Lactobacillus brevis; Y-2-10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16284.40796875556
+S000392608 Lactobacillus jensenii; JSW11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16291.850701920957
+S001313631 uncultured bacterium; Ch_i70	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+16295.618419834758
+S002354705 Lactobacillus rhamnosus; 47-217	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16298.44163197276
+S001305845 uncultured bacterium; Phil_b60	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16317.028299964424
+S001306974 uncultured bacterium; Oak_b36	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+16319.007731262516
+S001307016 uncultured bacterium; Oak_b83	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+16319.007731262516
+S001307424 uncultured bacterium; Oak_e96	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+16353.07815270976
+S000771711 uncultured bacterium; 1H9F04	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16370.22217723109
+S001016772 uncultured bacterium; K1F-E06	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16437.676689854285
+S001896037 Lactobacillus gasseri; WWC_C5MLM081	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16448.188289514423
+S004592831 uncultured bacterium; GCSTWT_16S_9368	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;unclassified_Lactobacillaceae;
+16470.040505503493
+S004311523 uncultured bacterium; LNH_1_16_12_Pumice.266654	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+16507.26854544179
+S004590099 uncultured bacterium; GCSTWT_16S_1325	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16512.299260078493
+S004590035 uncultured bacterium; GCSTWT_16S_1148	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16512.299260078493
+S001671276 uncultured bacterium; ML2-9	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16550.53787488109
+S002038090 uncultured bacterium; 4113137-TRACHEA_BALB	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16565.259142609568
+S002460109 uncultured bacterium; F1Q32TO06HEML5	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+16587.45376783109
+S002449145 Lactobacillus jensenii; VAG2	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16609.910073109288
+S000872635 uncultured bacterium; SB101	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16645.02736146167
+S004592359 uncultured bacterium; GCSTWT_16S_7912	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16652.16812477085
+S003809821 Lactobacillus rhamnosus; LW-114	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16665.62096535609
+S004499441 Lactobacillus rhamnosus; DM8121	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16695.91987360609
+S001310630 uncultured bacterium; WG_c8c	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16733.303446682046
+S004037783 uncultured bacterium; SC_F11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+16733.674415534915
+S001550865 Lactobacillus rhamnosus; Kx151A1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16747.53810605609
+S002944935 uncultured Streptococcus sp.; 1.29	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+16758.11161497276
+S004546315 uncultured bacterium; I74_D05	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16801.639702386212
+S001893487 Streptococcus anginosus subsp. null; JT016	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+16810.682050090803
+S004546349 uncultured bacterium; I75_E02	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16812.685176582047
+S004546316 uncultured bacterium; I74_B01	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16900.98504970991
+S002418989 Lactobacillus rhamnosus; Kx180C1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16903.19314315609
+S001577143 Lactobacillus brevis; SD1B8	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16924.88659307085
+S004592527 uncultured bacterium; GCSTWT_16S_8388	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16954.28745482085
+S004546288 uncultured bacterium; I74_D12	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+16972.792813064287
+S002038084 uncultured bacterium; 3912246-TRACHEA_C57	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+16981.95512338109
+S002795310 uncultured bacterium; GDIC2IK01CGCOX	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+16991.97036157085
+S001895970 Lactobacillus gasseri; WWC_C5AKM124	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17005.590741756092
+S004449000 Lactobacillus rhamnosus; V2-06	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17023.53573690609
+S000703205 uncultured bacterium; HPG-SRK-25	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17039.71644962918
+S001889877 Streptococcus parasanguinis; BL127	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17040.54219555556
+S004592830 uncultured bacterium; GCSTWT_16S_9365	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17058.195074153493
+S004591220 uncultured bacterium; GCSTWT_16S_4517	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+17090.245827220846
+S004449003 Lactobacillus rhamnosus; V2-09	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17091.29998305609
+S004449020 Lactobacillus rhamnosus; V5-07	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17091.29998305609
+S003088185 uncultured Lactobacillus sp.; WOG_088L	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17105.219752814424
+S000973513 uncultured bacterium; DGGE gel band 1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17164.110289991793
+S004591698 uncultured bacterium; GCSTWT_16S_5953	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17214.285603904184
+S000825272 Lactobacillus rhamnosus; P0-1a	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17219.47421953943
+S000515680 Lactobacillus rhamnosus; KKA Seq 561	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17227.92668620609
+S003463493 uncultured bacterium; SK021.2.C.052	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17257.597338394284
+S000536646 Lactobacillus rhamnosus; KKA Seq 633	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17259.607914706092
+S000619790 Lactobacillus rhamnosus; KKA Seq770	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17266.053942056093
+S002038092 uncultured bacterium; 4113188-LUNG_C57	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17288.825347039427
+S003468334 uncultured bacterium; SK020.1.E.049	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17290.22029499262
+S004546332 uncultured bacterium; I74_C07	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17314.000477948714
+S003655765 uncultured Lactobacillus sp.; F7SSZP003GRNEB	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+17333.851621101425
+S001148341 uncultured bacterium; SP22(OTU-7)	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Alkalibacterium;genus
+17351.248022564283
+S004546357 uncultured bacterium; I75_C07	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17380.416714001578
+S001329238 Streptococcus suis; NYFC	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17382.545884527957
+S004590775 uncultured bacterium; GCSTWT_16S_3203	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17409.095268929184
+S000608997 uncultured Aerococcus sp.; mother 10; 9EV10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Aerococcaceae;family;Aerococcus;genus
+17426.009428098827
+S001893602 Streptococcus anginosus subsp. null; CMC671	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17426.03908150747
+S002456353 uncultured bacterium; F1Q32TO06HCG0W	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Leuconostocaceae;family;Weissella;genus
+17438.45609085334
+S004591309 uncultured bacterium; GCSTWT_16S_4782	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Catellicoccus;genus
+17471.35522434741
+S000392625 Lactobacillus casei; RRB5	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17472.84188839585
+S000843349 Lactobacillus brevis; DSM 20054; DumLac61	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17479.17323910418
+S001044682 Lactobacillus plantarum; Y-2-1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17490.733377111286
+S000908708 uncultured Bacilli bacterium; MS107A1_H04	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+17512.53672199879
+S001346176 uncultured bacterium; YO00194A12	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17535.65607900609
+S003469571 uncultured bacterium; SK020.1.E.006	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17546.761193330956
+S003686234 uncultured bacterium; GKJWQY101AAXQ1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+17556.189912328337
+S003809127 bacterium S27(2013)	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Leuconostocaceae;family;Leuconostoc;genus
+17572.546438353336
+S000841823 Weissella paramesenteroides; F092491	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Leuconostocaceae;family;Weissella;genus
+17642.691087532472
+S000392634 Lactobacillus rhamnosus; GYB9	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17674.78668891251
+S000825260 Lactobacillus rhamnosus; A28-3b	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17683.15631642276
+S001148372 uncultured bacterium; WI01(OTU-6)	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Alkalibacterium;genus
+17755.732459183004
+S000944100 uncultured bacterium; C16-525	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17759.273001939426
+S004434821 uncultured bacterium; 10-2008	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17812.376007389288
+S001344077 uncultured bacterium; YO00196H03	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+17831.933245648717
+S002456282 uncultured bacterium; F1Q32TO06HIP1B	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Leuconostocaceae;family;Weissella;genus
+17853.87578107833
+S003267319 uncultured bacterium; T5.5b1-M13-RP	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Carnobacterium;genus
+17877.221148641787
+S000859319 Streptococcus sp. 99	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17879.599001462517
+S004311071 uncultured bacterium; LNH_1_16_12_Pumice.251596	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+17889.25094971679
+S003267325 uncultured bacterium; T5.6b2-M13-RP	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Carnobacterium;genus
+17907.86681344179
+S002818649 uncultured bacterium; GDIC2IK01EJOR1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+17911.421267654183
+S002228989 Streptococcus uberis; AK2C	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17919.408294330402
+S002228990 Streptococcus uberis; AK4a	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17919.408294330402
+S002228992 Streptococcus uberis; AK35	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17919.408294330402
+S002228991 Streptococcus uberis; AK4C	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17919.408294330402
+S002228994 Streptococcus uberis; CH70	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17919.408294330402
+S002228993 Streptococcus uberis; AK37	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17919.408294330402
+S002228996 Streptococcus uberis; HF5	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17919.408294330402
+S002228995 Streptococcus uberis; HF1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17919.408294330402
+S002228998 Streptococcus uberis; HF20	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17919.408294330402
+S002228997 Streptococcus uberis; HF10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17919.408294330402
+S002229000 Streptococcus uberis; HF32	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17919.408294330402
+S002228999 Streptococcus uberis; HF27	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17919.408294330402
+S002229001 Streptococcus uberis; HF35	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17919.408294330402
+S002456077 uncultured bacterium; F1Q32TO06G9RAI	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Leuconostocaceae;family;Weissella;genus
+17926.64287950334
+S004591725 uncultured bacterium; GCSTWT_16S_6045	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Catellicoccus;genus
+17929.44858047643
+S003633962 uncultured bacterium; SBF10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+17938.55313257623
+S004541193 uncultured bacterium; RG64-60	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+17984.419811589425
+S004591621 uncultured bacterium; GCSTWT_16S_5699	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Pilibacter;genus
+18031.43289632085
+S002233449 Lactobacillus rhamnosus; RSI3	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18052.527409245846
+S003470082 uncultured bacterium; SK021.2.W.017	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18073.559633953337
+S003386985 uncultured bacterium; BX07B_E11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18077.512211329293
+S003465201 uncultured bacterium; SK021.2.E.053	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18098.034325945002
+S003803764 Lactobacillus brevis; 003-052-LSC (b)	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18113.230932679184
+S003803770 Lactobacillus brevis; MV-BM2	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18113.230932679184
+S003465399 uncultured bacterium; SK020.1.E.007	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18138.64200682262
+S001148346 uncultured bacterium; SP35(OTU-5)	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Alkalibacterium;genus
+18178.48864536634
+S001878107 Streptococcus sp. oral taxon 070; ATC_H41_10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18179.18194515556
+S003803771 Lactobacillus brevis; MV-BM3	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18187.284585229183
+S002787016 uncultured bacterium; GDIC2IK01ALSVR	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18218.814440801427
+S002788236 uncultured bacterium; GDIC2IK01CGWKP	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18218.814440801427
+S002800659 uncultured bacterium; GDIC2IK01A36RG	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18218.814440801427
+S002843033 uncultured bacterium; GDIC2IK01DDHN6	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18218.814440801427
+S002849925 uncultured bacterium; GDIC2IK01CBST9	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18218.814440801427
+S002785782 uncultured bacterium; GDIC2IK01EHQ81	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18218.913609801424
+S002786990 uncultured bacterium; GDIC2IK01EKB34	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18219.340271801422
+S002788872 uncultured bacterium; GDIC2IK01DZ6GK	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18219.637778801425
+S002785522 uncultured bacterium; GDIC2IK01BZW0K	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18221.913609801424
+S002787542 uncultured bacterium; GDIC2IK01EL8OI	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18221.913609801424
+S002786023 uncultured bacterium; GDIC2IK01EXK6T	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18223.866102801425
+S002800364 uncultured bacterium; GDIC2IK01D990S	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18233.13759387643
+S002786983 uncultured bacterium; GDIC2IK01AT8T6	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18234.633808726427
+S002841400 uncultured bacterium; GDIC2IK01EUTOI	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18234.633808726427
+S002804018 uncultured bacterium; GDIC2IK01CZ3CG	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18235.219426801425
+S002803992 uncultured bacterium; GDIC2IK01D60L8	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18235.219426801425
+S002786235 uncultured bacterium; GDIC2IK01DGP3B	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18235.232977726428
+S002809025 uncultured bacterium; GDIC2IK01DSZIH	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18235.232977726428
+S002806676 uncultured bacterium; GDIC2IK01AV3I0	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18235.232977726428
+S002789025 uncultured bacterium; GDIC2IK01BPH6R	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18236.457146726432
+S002790294 uncultured bacterium; GDIC2IK01CGQ9D	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18236.58630172643
+S002787695 uncultured bacterium; GDIC2IK01AONQB	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18237.758808726427
+S002844661 uncultured bacterium; GDIC2IK01DNPNK	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18237.90963972643
+S002789339 uncultured bacterium; GDIC2IK01EMVCH	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18238.232977726428
+S002787747 uncultured bacterium; GDIC2IK01EPM1L	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18239.232792801424
+S002807940 uncultured bacterium; GDIC2IK01EBFHK	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18239.232792801424
+S002789749 uncultured bacterium; GDIC2IK01A63QQ	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18239.33214672643
+S002789819 uncultured bacterium; GDIC2IK01BF2BW	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18239.33214672643
+S002801416 uncultured bacterium; GDIC2IK01DXOL9	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18239.33214672643
+S003796425 uncultured bacterium; TY3901	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18239.546772954294
+S002800834 uncultured bacterium; GDIC2IK01EYBVK	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18239.620257801427
+S002787476 uncultured bacterium; GDIC2IK01CK1UH	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18241.05631572643
+S002789399 uncultured bacterium; GDIC2IK01BFP4A	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18244.163794726428
+S002793651 uncultured bacterium; GDIC2IK01DATNM	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18244.76296372643
+S002786026 uncultured bacterium; GDIC2IK01A2H5Z	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18249.97882272643
+S002786948 uncultured bacterium; GDIC2IK01CAHVS	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18249.97882272643
+S002806868 uncultured bacterium; GDIC2IK01AWB2R	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18250.296919801425
+S002787764 uncultured bacterium; GDIC2IK01BHNJI	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18251.104007651425
+S002786917 uncultured bacterium; GDIC2IK01AG27V	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18251.629653726428
+S002786399 uncultured bacterium; GDIC2IK01EV10Y	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18251.95299172643
+S002786918 uncultured bacterium; GDIC2IK01EBYUS	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18252.197750801428
+S002786963 uncultured bacterium; GDIC2IK01EGC57	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18252.34045672643
+S002789559 uncultured bacterium; GDIC2IK01AY4VI	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18252.34045672643
+S002790043 uncultured bacterium; GDIC2IK01D55DI	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18252.34045672643
+S002800780 uncultured bacterium; GDIC2IK01CASJP	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18252.677345651427
+S002808583 uncultured bacterium; GDIC2IK01DO97F	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18253.36628772643
+S002785259 uncultured bacterium; GDIC2IK01BTJKD	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18254.20299172643
+S002787915 uncultured bacterium; GDIC2IK01B3BA1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18254.40151465143
+S002790271 uncultured bacterium; GDIC2IK01DEM0L	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18254.40151465143
+S002803963 uncultured bacterium; GDIC2IK01CINQM	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18254.40151465143
+S002792258 uncultured bacterium; GDIC2IK01BNXOG	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18256.75068365143
+S002785528 uncultured bacterium; GDIC2IK01CPSXR	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18257.276514651425
+S002790126 uncultured bacterium; GDIC2IK01DTCYH	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18258.97358180143
+S002784928 uncultured bacterium; GDIC2IK01DE0UX	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18259.052160726427
+S002787427 uncultured bacterium; GDIC2IK01CNAWF	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18259.052160726427
+S002807134 uncultured bacterium; GDIC2IK01D6TG3	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18261.61628772643
+S002785159 uncultured bacterium; GDIC2IK01C2KCA	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18262.526329726432
+S002788285 uncultured bacterium; GDIC2IK01BT9VC	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18263.324021651428
+S002788893 uncultured bacterium; GDIC2IK01C4EK3	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18265.284824651426
+S002788193 uncultured bacterium; GDIC2IK01BM28W	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18266.772544576426
+S002786502 uncultured bacterium; GDIC2IK01BW725	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18268.750498726433
+S002801011 uncultured bacterium; GDIC2IK01A0II1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18270.625498726433
+S002788747 uncultured bacterium; GDIC2IK01CTJ7O	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18272.397359651426
+S002807031 uncultured bacterium; GDIC2IK01AX2YQ	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18273.142118726428
+S002785005 uncultured bacterium; GDIC2IK01BMFBY	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18277.077806801426
+S002841452 uncultured bacterium; GDIC2IK01BE1MZ	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18280.397359651426
+S002786991 uncultured bacterium; GDIC2IK01D29X2	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18281.818780726433
+S002784724 uncultured bacterium; GDIC2IK01D9NGQ	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18284.698836726428
+S002805357 uncultured bacterium; GDIC2IK01AIBYJ	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18288.46961172643
+S002790183 uncultured bacterium; GDIC2IK01ALRVV	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18294.832516576425
+S002800071 uncultured bacterium; GDIC2IK01DR9C4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18310.77127372643
+S002786887 uncultured bacterium; GDIC2IK01B8T7L	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18318.00356780143
+S002798083 uncultured bacterium; GDIC2IK01DMAWC	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18319.22051272643
+S002787285 uncultured bacterium; GDIC2IK01BNV22	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18320.34551272643
+S002802816 uncultured bacterium; GDIC2IK01EOJHH	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18321.928443101424
+S002789035 uncultured bacterium; GDIC2IK01BV75O	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18329.819681726432
+S002786760 uncultured bacterium; GDIC2IK01DED5P	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18339.83360250143
+S002221188 uncultured bacterium; CAL3IHf03	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+18410.777006116576
+S003462277 uncultured bacterium; SK140.1.E.039	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18412.066183203337
+S004590660 uncultured bacterium; GCSTWT_16S_2885	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+18461.11873883752
+S004590890 uncultured bacterium; GCSTWT_16S_3527	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18478.486852128488
+S002454811 uncultured bacterium; F1Q32TO06HBCKL	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18494.613562251427
+S001342518 uncultured bacterium; YO00116C11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18497.43655769455
+S000912794 uncultured Bacilli bacterium; MS078A1_C08	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18502.23162511129
+S004590362 uncultured bacterium; GCSTWT_16S_2029	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+18527.09389427085
+S003565830 uncultured bacterium; T3C158	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18536.130597946794
+S001187569 Pediococcus stilesii; FC12	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Pediococcus;genus
+18539.841109565994
+S001187566 Pediococcus stilesii; FC7	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Pediococcus;genus
+18593.36694056599
+S004591317 uncultured bacterium; GCSTWT_16S_4810	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18594.496051278496
+S001344317 uncultured bacterium; YO00199B02	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18615.837398176576
+S000564515 uncultured bacterium; TS81	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18628.523372739426
+S004592801 uncultured bacterium; GCSTWT_16S_9263	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18645.165506112517
+S004546304 uncultured bacterium; I74_F01	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18657.21301309038
+S003279741 Lactobacillales bacterium 'ARUP UnID 615'	Lineage=Root;rootrank;Bacteria;domain;unclassified_Bacteria;
+18737.42709967085
+S000392614 Lactobacillus rhamnosus; RB4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18743.914041339427
+S000615493 Streptococcus anginosus subsp. null; 6391	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18768.534694062517
+S000392603 Lactobacillus rhamnosus; RT1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18775.222762706093
+S004183768 uncultured Lactobacillus sp.; GVYBRHI01D4K7K	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+18811.163346378333
+S004183827 uncultured Enterococcus sp.; GVYBRHI01AOEIV	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+18815.801947011674
+S004590493 uncultured bacterium; GCSTWT_16S_2395	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18815.846050825887
+S000392612 Lactobacillus rhamnosus; JSW10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18865.986821506096
+S004590299 uncultured bacterium; GCSTWT_16S_1878	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Catellicoccus;genus
+18895.80039562172
+S004592828 uncultured bacterium; GCSTWT_16S_9363	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Catellicoccus;genus
+18895.80039562172
+S004439690 uncultured Streptococcus sp.; L-4	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18898.385555038734
+S000392613 Lactobacillus rhamnosus; MAB22	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18906.403438506095
+S004590029 uncultured bacterium; GCSTWT_16S_1132	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Catellicoccus;genus
+18908.131173087517
+S000771680 uncultured bacterium; 2C2F04	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18915.16631507276
+S002856076 uncultured bacterium; GDIC2IK01EXSXV	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Trichococcus;genus
+18916.35974075349
+S003483762 uncultured bacterium; N1_4_1184	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+18964.487777395847
+S002050625 uncultured Streptococcaceae bacterium; E155B06	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+18988.58627037085
+S004482712 Lactococcus lactis; 133	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+19008.574446997067
+S001302365 uncultured bacterium; Turk_c46	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+19032.075417251428
+S001302405 uncultured bacterium; Turk_c85	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+19032.075417251428
+S004591008 uncultured bacterium; GCSTWT_16S_3847	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+19079.850469903082
+S001307692 uncultured bacterium; Oak_h138	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+19082.445546176426
+S000470347 Lactobacillus brevis; ATCC 14869; L44	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19092.226055904186
+S000617145 Lactobacillus brevis; CCC B1203	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19092.226055904186
+S000617144 Lactobacillus brevis; CCC B1202	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19092.226055904186
+S000617147 Lactobacillus brevis; CCC B1204	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19092.226055904186
+S000617146 Lactobacillus brevis; CCC B1206	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19092.226055904186
+S000617148 Lactobacillus brevis; BSO 31	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19092.226055904186
+S000617175 Lactobacillus brevis; ATCC 4006	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19092.226055904186
+S000617176 Lactobacillus brevis; ATCC 8007	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19092.226055904186
+S000617199 Lactobacillus brevis; CCC 96S1L	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19092.226055904186
+S001310875 uncultured bacterium; WG_e93	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+19111.809037651423
+S004589586 uncultured bacterium; GCSTWT_16S_9	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19127.23396321308
+S004590311 uncultured bacterium; GCSTWT_16S_1912	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19127.23396321308
+S001302461 uncultured bacterium; Turk_d28	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+19140.503220651426
+S004592212 uncultured bacterium; GCSTWT_16S_7444	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19141.993009153335
+S002458619 uncultured bacterium; F1Q32TO06HJGBE	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+19153.58290138667
+S004592610 uncultured bacterium; GCSTWT_16S_8701	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19154.43396321308
+S000617204 Lactobacillus bifermentans; CCC B1300	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19172.27970845418
+S000617200 Lactobacillus bifermentans; CCC 96S2AL	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19172.27970845418
+S004592506 uncultured bacterium; GCSTWT_16S_8336	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19175.951527123085
+S004589913 uncultured bacterium; GCSTWT_16S_800	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19183.07490090808
+S001090125 uncultured bacterium; K03	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Leuconostocaceae;family;Weissella;genus
+19193.63424307207
+S000942390 Pediococcus sp. QMA-03G	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Pediococcus;genus
+19194.862952151427
+S001310671 uncultured bacterium; WG_d14	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+19198.575657651425
+S001310274 uncultured bacterium; Ger_j93	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+19209.476488651424
+S001310242 uncultured bacterium; Ger_j61	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+19209.476488651424
+S001316124 uncultured bacterium; Arg_j137	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;unclassified_Carnobacteriaceae;
+19221.002319651427
+S001316131 uncultured bacterium; Arg_j20	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;unclassified_Carnobacteriaceae;
+19221.002319651427
+S002229120 Streptococcus dysgalactiae subsp. null; AK25	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+19225.37570814672
+S002229121 Streptococcus dysgalactiae subsp. null; AK36	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+19225.37570814672
+S002229122 Streptococcus dysgalactiae subsp. null; CH74	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+19225.37570814672
+S004183787 uncultured Lactobacillus sp.; GVYBRHI01AQ00P	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19232.902901578334
+S001309562 uncultured bacterium; Ger_d79	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;unclassified_Carnobacteriaceae;
+19234.53609080143
+S001311697 uncultured bacterium; Con_c11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+19245.928981651425
+S002944949 uncultured Streptococcus sp.; 1.51	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+19256.04416782207
+S001311732 uncultured bacterium; Con_c15	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+19259.329812651427
+S001311598 uncultured bacterium; Con_b137	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+19259.329812651427
+S004546249 uncultured bacterium; I72_C07	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19295.328468684907
+S001306490 uncultured bacterium; Phil_h109	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+19303.282305651424
+S003633934 uncultured bacterium; SBC07	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+19316.51253916886
+S001346027 uncultured bacterium; YO00190D09	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19337.12931358247
+S003633927 uncultured bacterium; SBB10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+19359.011629418856
+S001311736 uncultured bacterium; Con_c25	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+19370.635629651428
+S004183781 uncultured Weissella sp.; GVYBRHI01EYNUT	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Leuconostocaceae;family;Weissella;genus
+19414.022034528334
+S000344208 uncultured bacterium; ckncm254-c5h2	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19427.300669551427
+S002455773 uncultured bacterium; F1Q32TO06G84H8	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19428.127985245
+S001892552 Granulicatella adiacens; NN008	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+19441.06547443629
+S004183541 uncultured bacterium; GVYBRHI02GVBEK	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+19445.21322732643
+S004183457 uncultured Enterococcus sp.; GVYBRHI01CQ8EH	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+19458.153440251423
+S004183488 uncultured Enterococcus sp.; GVYBRHI01AYC9D	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+19463.89385940143
+S004183732 uncultured bacterium; GVYBRHI01EUVOT	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+19467.523014401428
+S001150031 uncultured bacterium; DE00598A11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+19470.726778251425
+S004183456 uncultured Lactobacillus sp.; GVYBRHI01DEXZR	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19472.281355728337
+S004183608 uncultured Enterococcus sp.; GVYBRHI01D0ZQQ	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+19484.88157932643
+S002457901 uncultured bacterium; F1Q32TO06HBCA6	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19487.84076996167
+S004183737 uncultured Enterococcus sp.; GVYBRHI01AJT4E	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+19488.21304240143
+S004183576 uncultured Lactococcus sp.; GVYBRHI02FMYKX	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+19501.12345425143
+S003633944 uncultured bacterium; SBD10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+19512.31830249386
+S001150104 uncultured bacterium; DE00598F04	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+19522.200046251426
+S002456979 uncultured bacterium; F1Q32TO06HMG93	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19536.859268120003
+S004183528 uncultured Edwardsiella sp.; GVYBRHI02JAOO3	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+19537.63828755143
+S002455659 uncultured bacterium; F1Q32TO06HJ7QY	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19543.473746845
+S004183483 uncultured bacterium; GVYBRHI01ACS9Q	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+19545.270130251425
+S001306799 uncultured bacterium; Phil_j67	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19546.36508615143
+S004183836 uncultured Lactococcus sp.; GVYBRHI01ARTE8	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+19546.657225401428
+S003725146 uncultured bacterium; LIB-12A05	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+19559.957731963736
+S002457164 uncultured bacterium; F1Q32TO06G2MZM	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19560.329467045
+S002459734 uncultured bacterium; F1Q32TO06HPF36	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19571.956229795007
+S004590119 uncultured bacterium; GCSTWT_16S_1380	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+19580.506054312515
+S004183704 uncultured Lactobacillus sp.; GVYBRHI01EPEUO	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19611.125396261672
+S004183469 uncultured Enterococcus sp.; GVYBRHI01EMU4L	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+19679.537651251427
+S004183563 uncultured Enterococcus sp.; GVYBRHI02JQMZ8	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+19683.94103547643
+S002457239 uncultured bacterium; F1Q32TO06HGBHY	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19693.48617511167
+S004183536 uncultured Enterococcus sp.; GVYBRHI02F4S2N	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+19695.859572401423
+S002234217 Lactobacillus rhamnosus; 26-137	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19711.799092492907
+S004183754 uncultured Enterococcus sp.; GVYBRHI01EXFO3	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+19715.09725340143
+S002459753 uncultured bacterium; F1Q32TO06G80AK	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19733.95813678667
+S004183717 uncultured Lactobacillus sp.; GVYBRHI01C0SWZ	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19762.67374892929
+S002792550 uncultured bacterium; GDIC2IK01CFNGY	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+19772.27983905334
+S001893797 Lactobacillus brevis; CX018	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19790.573872020846
+S000647239 uncultured Streptococcus sp.; 6.25	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+19807.06528522085
+S004183818 uncultured Enterococcus sp.; GVYBRHI01AQUUM	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+19840.13339346679
+S001017198 uncultured bacterium; KAB-C-048	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19844.80040477158
+S003509332 uncultured bacterium; Tutoko_faecal-99	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+19932.082925066657
+S002459156 uncultured bacterium; F1Q32TO06GYNYX	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+19956.357430645
+S004183580 uncultured Lactococcus sp.; GVYBRHI01BDVGI	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+20004.450477976425
+S001310639 uncultured bacterium; WG_d108	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+20011.01791431167
+S001310694 uncultured bacterium; WG_d36	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+20011.01791431167
+S001315150 uncultured bacterium; Arg_b30	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;unclassified_Carnobacteriaceae;
+20011.01791431167
+S001302645 uncultured bacterium; Turk_e128	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20011.01791431167
+S001303993 uncultured bacterium; SA_f24b	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20011.01791431167
+S001303576 uncultured bacterium; SA_c67	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20011.01791431167
+S001304109 uncultured bacterium; SA_g35c	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20011.01791431167
+S001303988 uncultured bacterium; SA_f1b	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20011.01791431167
+S001305229 uncultured bacterium; Pol_g23	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20011.01791431167
+S001307477 uncultured bacterium; Oak_f38	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20011.01791431167
+S001306979 uncultured bacterium; Oak_b41	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20011.01791431167
+S001307709 uncultured bacterium; Oak_h36	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20011.01791431167
+S001309324 uncultured bacterium; Ger_b73	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20011.01791431167
+S001313674 uncultured bacterium; Ch_i3b	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20011.01791431167
+S001314333 uncultured bacterium; Bol_e135	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20011.01791431167
+S001314348 uncultured bacterium; Bol_e24	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20011.01791431167
+S001314306 uncultured bacterium; Bol_e104	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20011.01791431167
+S001313679 uncultured bacterium; Ch_i6b	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20011.01791431167
+S001313669 uncultured bacterium; Ch_i35b	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20011.01791431167
+S001315449 uncultured bacterium; Arg_d6	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20011.01791431167
+S002460603 uncultured bacterium; F1Q32TO06GX2MR	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+20011.193871045
+S004590267 uncultured bacterium; GCSTWT_16S_1798	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Catellicoccus;genus
+20028.31819893491
+S001892140 Granulicatella adiacens; QV029	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+20044.923766386288
+S001307289 uncultured bacterium; Oak_d8	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20072.59422416167
+S001309209 uncultured bacterium; Ger_a75	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20083.117606303334
+S004482714 Lactococcus lactis subsp. lactis; 135	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+20145.8806667304
+S004591016 uncultured bacterium; GCSTWT_16S_3871	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Catellicoccus;genus
+20162.26176663491
+S000919661 uncultured Bacilli bacterium; MS199A1_C02	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+20221.69117504594
+S004183779 uncultured Enterococcus sp.; GVYBRHI01E2KID	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20253.74654552834
+S001892479 Granulicatella adiacens; FJ019	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+20289.790864461287
+S004590308 uncultured bacterium; GCSTWT_16S_1902	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+20307.41323910922
+S004590451 uncultured bacterium; GCSTWT_16S_2298	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20309.641464659224
+S001310133 uncultured bacterium; Ger_i31b	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20321.816130228337
+S001303351 uncultured bacterium; SA_a28b	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+20325.569649626425
+S000647200 uncultured Streptococcus sp.; 9.70	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+20381.891058620855
+S000647204 uncultured Streptococcus sp.; 9.66	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+20381.891058620855
+S000647221 uncultured Streptococcus sp.; 9.39	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+20381.891058620855
+S000647227 uncultured Streptococcus sp.; 9.26	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+20381.891058620855
+S000647265 uncultured Streptococcus sp.; 7.27	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+20381.891058620855
+S004434823 uncultured bacterium; 53-2008	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+20388.64098941943
+S004434824 uncultured bacterium; 131-2008	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+20388.64098941943
+S004085031 Lactobacillus brevis; B34_11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+20395.665675662516
+S004591727 uncultured bacterium; GCSTWT_16S_6049	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Catellicoccus;genus
+20400.14050428422
+S004183521 uncultured Enterococcus sp.; GVYBRHI02J5LLE	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Enterococcus;genus
+20426.175435661673
+S001345957 uncultured bacterium; YO00189C09	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+20472.36692942658
+S000647231 uncultured Streptococcus sp.; 9.12	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+20480.11137783752
+S003206515 uncultured bacterium; IC-F-71	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+20549.160070122758
+S004078024 Lactobacillus plantarum; d180_43	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+20552.436469297758
+S001893081 Streptococcus anginosus subsp. null; CJ003	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+20578.998363720853
+S003633938 uncultured bacterium; SBD02	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+20598.217078554433
+S001892330 Granulicatella adiacens; SP004	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+20632.26021113629
+S004590328 uncultured bacterium; GCSTWT_16S_1944	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20641.223280938808
+S004590370 uncultured bacterium; GCSTWT_16S_2066	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+20680.923140546725
+S001754404 uncultured Lactobacillus sp.; #143	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+20689.27183607382
+S001889396 Abiotrophia defectiva; RX026	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Aerococcaceae;family;Abiotrophia;genus
+20754.77770497379
+S001893337 Streptococcus anginosus subsp. null; CK011	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+20778.772335487516
+S000916042 uncultured Bacilli bacterium; MS006A1_E04	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+20844.259589655943
+S001953166 uncultured bacterium; CF7648	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+20850.325658540994
+S001893085 Streptococcus anginosus subsp. null; CJ029	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+20879.65932137085
+S004546386 uncultured bacterium; I75_D07	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+20920.567015471723
+S000917428 uncultured Bacilli bacterium; MS170A1_G06	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+20974.553157748443
+S000441242 Lactococcus garvieae; CG1037	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+21005.286534778497
+S000907903 uncultured Bacilli bacterium; MS076A1_C02	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21006.151693308442
+S000916089 uncultured Bacilli bacterium; MS007A1_A09	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21006.918728246306
+S000916119 uncultured Bacilli bacterium; MS007A1_D08	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21032.33939304631
+S000916154 uncultured Bacilli bacterium; MS007A1_G12	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21056.34837724131
+S001966759 uncultured bacterium; PF3334	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Atopostipes;genus
+21067.122515947758
+S004592611 uncultured bacterium; GCSTWT_16S_8705	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Pediococcus;genus
+21076.171881002803
+S000916020 uncultured Bacilli bacterium; MS006A1_C03	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21082.29702903631
+S004590444 uncultured bacterium; GCSTWT_16S_2284	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+21089.68753078614
+S000919712 uncultured Bacilli bacterium; MS199A1_G08	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21090.588190133807
+S004183679 uncultured Lactobacillus sp.; GVYBRHI02H9QOU	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+21115.101594479296
+S000916061 uncultured Bacilli bacterium; MS006A1_G01	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21160.160961070942
+S002376030 uncultured bacterium; TA009PA_27F_68	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21174.864519878443
+S003809129 Lactococcus lactis subsp. cremoris; S31	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+21183.564117872065
+S001893338 Streptococcus anginosus subsp. null; CK053	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21186.320279020852
+S000916162 uncultured Bacilli bacterium; MS007A1_H09	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21220.959337231314
+S004590612 uncultured bacterium; GCSTWT_16S_2746	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+21250.656726881094
+S004591571 uncultured bacterium; GCSTWT_16S_5562	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Catellicoccus;genus
+21252.687991578805
+S003708925 uncultured bacterium; EUPI082	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+21255.566248286137
+S003708924 uncultured bacterium; EUPI069	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+21255.566248286137
+S003708923 uncultured bacterium; EUPI063	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+21255.566248286137
+S003708922 uncultured bacterium; EUPI056	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+21255.566248286137
+S001893568 Streptococcus anginosus subsp. null; BV003	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21263.423500695848
+S003451121 uncultured Lactobacillus sp.; P2_H1_23	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+21284.779351130404
+S001893082 Streptococcus anginosus subsp. null; CJ004	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21289.873931570848
+S004592862 uncultured bacterium; GCSTWT_16S_9452	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+21316.497065423715
+S003286666 Lactococcus lactis subsp. lactis; KT2W2	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Lactococcus;genus
+21344.737694550888
+S000912684 uncultured Bacilli bacterium; MS068A1_H02	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21380.22881900832
+S003708917 uncultured bacterium; EUPI039	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+21391.966873536134
+S001893087 Streptococcus anginosus subsp. null; CJ044	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21394.094250787515
+S001893201 Streptococcus anginosus subsp. null; YV043	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21404.760917454183
+S003785070 Tetragenococcus halophilus subsp. null; DSW02	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Tetragenococcus;genus
+21483.666447689422
+S003785071 Tetragenococcus halophilus subsp. null; DSW03	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Tetragenococcus;genus
+21483.666447689422
+S003785072 Tetragenococcus halophilus subsp. null; DSW04	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Tetragenococcus;genus
+21483.666447689422
+S003785073 Tetragenococcus halophilus subsp. null; DSW05	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Tetragenococcus;genus
+21483.666447689422
+S003785075 Tetragenococcus halophilus subsp. null; SNW02	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Tetragenococcus;genus
+21483.666447689422
+S003785076 Tetragenococcus halophilus subsp. null; SNW03	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Tetragenococcus;genus
+21483.666447689422
+S003785077 Tetragenococcus halophilus subsp. null; SNW04	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Tetragenococcus;genus
+21483.666447689422
+S003785078 Tetragenococcus halophilus subsp. null; SNW05	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Enterococcaceae;family;Tetragenococcus;genus
+21483.666447689422
+S001892091 Granulicatella adiacens; ATC_H66_40	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+21488.233365223787
+S004592549 uncultured bacterium; GCSTWT_16S_8441	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Catellicoccus;genus
+21488.926198272413
+S004591724 uncultured bacterium; GCSTWT_16S_6044	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Catellicoccus;genus
+21520.080060343247
+S001742081 uncultured bacterium; UA001_AS620_0019_A01	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21522.424702355947
+S000916134 uncultured Bacilli bacterium; MS007A1_E11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21529.470924811307
+S000919657 uncultured Bacilli bacterium; MS199A1_B10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21533.929067733447
+S003451117 uncultured Lactobacillus sp.; P2_A2_23	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+21540.961745480403
+S000920457 uncultured Bacilli bacterium; MS214A1_B09	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21598.717640468447
+S000920446 uncultured Bacilli bacterium; MS214A1_A10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21681.219314716513
+S000354869 uncultured Aerococcus sp.; ckl3	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Aerococcaceae;family;Aerococcus;genus
+21703.121006298712
+S003634008 uncultured bacterium; CC09	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+21795.626643005002
+S000915997 uncultured Bacilli bacterium; MS006A1_A01	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21799.717580010943
+S003633959 uncultured bacterium; SBF07	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+21938.783936315944
+S001305081 uncultured bacterium; Pol_f105	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;unclassified_Streptococcaceae;
+21949.41793835643
+S001305690 uncultured bacterium; Phil_a26	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21951.428535131425
+S001305653 uncultured bacterium; Phil_a1	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21951.428535131425
+S001311837 uncultured bacterium; Con_d130	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21957.05333289143
+S001313217 uncultured bacterium; Ch_e23b	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21967.622132711425
+S001303611 uncultured bacterium; SA_d105	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+21967.622132711425
+S001307730 uncultured bacterium; Oak_h63	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+21967.622132711425
+S001311347 uncultured bacterium; WG_i90	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+21967.622132711425
+S001311463 uncultured bacterium; WG_j90	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+21967.622132711425
+S001314786 uncultured bacterium; Bol_i11	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+21967.622132711425
+S001303256 uncultured bacterium; SA_a29	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+21979.48298441143
+S001311674 uncultured bacterium; Con_b87	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+21982.27172823143
+S000824814 Lactobacillus casei; TNAUEM-Lc	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+21994.08205808136
+S001742354 uncultured bacterium; UA001_AS620_0024_B12	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+22020.820749634222
+S003809106 Weissella viridescens; S3	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Leuconostocaceae;family;Weissella;genus
+22041.346049479987
+S001313554 uncultured bacterium; Ch_h53b	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+22061.68460233143
+S002944938 uncultured Streptococcus sp.; 1.35	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+22094.00243081886
+S004183778 uncultured Lactobacillus sp.; GVYBRHI01BPU8X	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+22097.41417360429
+S001890193 Streptococcus parasanguinis; BL149	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+22144.041798429178
+S000916012 uncultured Bacilli bacterium; MS006A1_B06	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+22183.239741561305
+S004591709 uncultured bacterium; GCSTWT_16S_6016	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;unclassified_Lactobacillales;
+22214.108403448812
+S003633912 uncultured bacterium; SBA03	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+22229.401281528444
+S000919821 uncultured Bacilli bacterium; MS205A1_A10	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+22553.684627448823
+S003633951 uncultured bacterium; SBE07	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+22564.545781901517
+S001307527 uncultured bacterium; Oak_f95	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+22581.017342291423
+S002492034 uncultured Streptococcus sp.; ABLBc48	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+22801.40795889672
+S001303945 uncultured bacterium; SA_f104	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+22948.52918519167
+S001313743 uncultured bacterium; Ch_j46	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+22953.930339893337
+S000906410 uncultured Bacilli bacterium; MS020A1_G04	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23173.958809596716
+S003633948 uncultured bacterium; SBE04	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+23470.144107811517
+S000506907 uncultured Streptococcus sp.; IS022B96	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23477.479443881308
+S002228976 Streptococcus agalactiae; VC228	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23768.49864817103
+S002228975 Streptococcus agalactiae; VC206	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23768.49864817103
+S002228979 Streptococcus agalactiae; VC401	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23768.49864817103
+S002228977 Streptococcus agalactiae; VC233	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23768.49864817103
+S002228978 Streptococcus agalactiae; VC400	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23768.49864817103
+S002228987 Streptococcus agalactiae; VC460	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23768.49864817103
+S002228986 Streptococcus agalactiae; VC458	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23768.49864817103
+S002228985 Streptococcus agalactiae; VC443	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23768.49864817103
+S002228984 Streptococcus agalactiae; VC438	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23768.49864817103
+S002228983 Streptococcus agalactiae; VC436	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23768.49864817103
+S002228982 Streptococcus agalactiae; VC429	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23768.49864817103
+S002228981 Streptococcus agalactiae; VC419	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23768.49864817103
+S002228980 Streptococcus agalactiae; VC404	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23768.49864817103
+S002228988 Streptococcus agalactiae; VC462	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23768.49864817103
+S002232007 Streptococcus agalactiae; VC420	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23768.49864817103
+S002229779 Streptococcus agalactiae; VC394	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23768.49864817103
+S002232008 Streptococcus agalactiae; VC461	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+23768.49864817103
+S002516918 uncultured bacterium; 2li24	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+24116.899695649987
+S000911505 uncultured Bacilli bacterium; MS032A1_B05	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+24148.076997844655
+S003633939 uncultured bacterium; SBD03	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+24221.83398784791
+S001312127 uncultured bacterium; Con_f6	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Carnobacteriaceae;family;Granulicatella;genus
+24379.37867725143
+S003633924 uncultured bacterium; SBB07	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Lactobacillaceae;family;Lactobacillus;genus
+24409.408843204576
+S001671266 uncultured bacterium; M7-53	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+24413.335778121378
+S002945148 uncultured Streptococcus sp.; 8.45	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;Streptococcus;genus
+24431.61952689317
+S002944952 uncultured Streptococcus sp.; 1.56	Lineage=Root;rootrank;Bacteria;domain;Firmicutes;phylum;Bacilli;class;Lactobacillales;order;Streptococcaceae;family;unclassified_Streptococcaceae;
+24733.425732959833
