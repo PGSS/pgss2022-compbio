@@ -31,7 +31,7 @@ writer = csv.writer(h, delimiter='|')
 
 processed = 0
 a = None
-for item in read_fasta("./lactic_acid_only.fa.gz"):
+for item in read_fasta("./lactic_acid_pcr.fa.gz"):
     bacteria_def = item.defline
     #print(bacteria_def)
 

@@ -7,7 +7,7 @@ import csv
 #The current sample being used is WM10 Lactobacillus Paracasei
 
 #replace with user input (also set +/- gap for seq len)
-sample_exp =  { "seq_length" : 584,   "fragments_MseI" : [531,241],  "fragments_Hpy188I" : [669,472,299]}
+sample_exp =  { "seq_length" : 584,   "fragments_MseI" : [482,201],  "fragments_Hpy188I" : [429,265]}
 sample_exp["fragments_MseI"] = [x for x in sample_exp["fragments_MseI"] if x <= sample_exp["seq_length"]]
 sample_exp["fragments_MseI"] = [x for x in sample_exp["fragments_MseI"]]
 sample_exp["fragments_MseI"].sort()
