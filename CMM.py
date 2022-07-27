@@ -9,7 +9,7 @@ import re
 #The current sample being used is something, idk (fr this time, i have no clue)
 
 #replace with user input (also set +/- gap for seq len)
-sample_exp =  { "seq_length" : 584,   "fragments_MseI" : [482,201],  "fragments_Hpy188I" : [429,265]}
+sample_exp =  { "seq_length" : 598.1,   "fragments_MseI" : [482.6, 221.7],  "fragments_Hpy188I" : [400.0, 221.7]}
 sample_exp["fragments_MseI"] = [x for x in sample_exp["fragments_MseI"] if x <= sample_exp["seq_length"]]
 sample_exp["fragments_Hpy188I"] = [x for x in sample_exp["fragments_Hpy188I"] if x <= sample_exp["seq_length"]]
 
@@ -226,7 +226,7 @@ def rank(db_fraglen_exprange, sample_exp):
 def main(passed_sample, will_filter_unnamed):
     db_init = db_import('./Sequence_Analyses.csv')
 
-    random_index = random.randint(0,len(db_init) -1)
+    #random_index = random.randint(0,len(db_init) -1)
     sample_value = passed_sample #change this to passed sample to use something passed in
     #sample_value = db_init[random_index]
 
