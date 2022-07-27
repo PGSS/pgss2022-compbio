@@ -29,7 +29,6 @@ def db_import(db_path):
             data["fragments_Hpy188I"] = [int(x) for x in row[3].split(',')]
             #adds the definitions to a list
             database.append(data)
-            next(seq)
     return database
 
 #LENGTH MATCHING
@@ -228,8 +227,8 @@ def main(passed_sample, will_filter_unnamed):
     db_init = db_import('./Sequence_Analyses.csv')
 
     random_index = random.randint(0,len(db_init) -1)
-    #sample_value = passed_sample #change this to passed sample to use something passed in
-    sample_value = db_init[random_index]
+    sample_value = passed_sample #change this to passed sample to use something passed in
+    #sample_value = db_init[random_index]
 
     #print(len(db_init))
     db_lenfilt = seqlen_filter(sample_value, db_init)
@@ -247,13 +246,13 @@ def main(passed_sample, will_filter_unnamed):
     if will_filter_unnamed:
         db_sorted_final_questionmark = [x for x in db_sorted_final_questionmark if "uncultured bacterium" not in x["defline"]]
 
-    """ for bacteria_iter in range(0,5):
+    for bacteria_iter in range(0,5):
         print(db_sorted_final_questionmark[bacteria_iter]["defline"])
         print("MSE: " + str(db_sorted_final_questionmark[bacteria_iter]["diffval"]))
         #print(db_sorted_final_questionmark[bacteria_iter])
         #break
         print("\n")
-    print("Total number of matches: " + str(len(db_sorted_final_questionmark))) """
+    print("Total number of matches: " + str(len(db_sorted_final_questionmark)))
 
     file_name = 'testData'
 
